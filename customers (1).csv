@@ -1,0 +1,1001 @@
+customer_id,name,dob,gender,city,account_type,created_date
+C0001,Yashvi Sundaram,11/3/1973,M,Jehanabad,Savings,10/31/2017
+C0002,Rhea Sen,1/13/1955,M,Guwahati,Fixed Deposit,12/8/2024
+C0003,Dhanuk Sood,5/17/1968,F,Bidhannagar,Savings,8/3/2025
+C0004,Nirvaan Deshpande,6/29/1987,M,Berhampore,Fixed Deposit,6/25/2024
+C0005,Gokul Doctor,1/10/1994,M,Anantapuram,Fixed Deposit,10/22/2018
+C0006,Ivana Ray,12/28/1989,M,Howrah,Fixed Deposit,10/6/2015
+C0007,Aaryahi Srinivas,4/23/1969,M,Pimpri-Chinchwad,Savings,9/14/2022
+C0008,Veer Srivastava,5/1/1977,M,Hindupur,Savings,9/30/2019
+C0009,Himmat Johal,8/16/2000,F,Faridabad,Current,4/14/2023
+C0010,Samaira Bakshi,8/22/1999,M,Dindigul,Savings,5/23/2017
+C0011,Drishya Handa,12/6/2002,M,Mathura,Savings,11/3/2024
+C0012,Badal Khatri,5/20/1974,M,Bhiwandi,Fixed Deposit,9/3/2023
+C0013,Kaira Ramachandran,5/2/2005,M,Sasaram,Savings,12/29/2015
+C0014,Zaina Sandal,4/22/1963,M,Junagadh,Savings,1/8/2021
+C0015,Aarush Seshadri,10/20/1987,M,Amritsar,Fixed Deposit,10/18/2018
+C0016,Adah Badami,9/13/1971,M,Giridih,Savings,10/22/2019
+C0017,Rati Sahni,5/12/1999,F,Jalna,Fixed Deposit,7/4/2017
+C0018,Sahil Kulkarni,5/1/1963,M,Malda,Savings,4/14/2024
+C0019,Dishani Desai,10/24/1970,F,Jamalpur,Savings,7/22/2019
+C0020,Anya Goda,10/24/1956,F,Coimbatore,Current,11/30/2020
+C0021,Pranay Issac,11/30/1979,M,Shivpuri,Savings,8/31/2016
+C0022,Abram Suri,8/7/1959,M,Kamarhati,Fixed Deposit,10/11/2022
+C0023,Saanvi Deshmukh,10/18/1985,F,Lucknow,Savings,2/4/2024
+C0024,Kimaya Lata,2/23/1986,F,Thoothukudi,Current,1/10/2025
+C0025,Charvi Iyer,1/31/1961,F,Sangli-Miraj & Kupwad,Savings,9/13/2025
+C0026,Kiaan Tripathi,3/21/1986,M,Indore,Savings,5/17/2023
+C0027,Vritika Mangal,9/12/2004,M,Pallavaram,Fixed Deposit,12/5/2016
+C0028,Saanvi Basu,7/13/2006,F,Jamalpur,Current,12/5/2018
+C0029,Mahika Bandi,8/15/1968,M,Bidar,Savings,3/3/2023
+C0030,Adira Bir,11/9/1993,M,Mahbubnagar,Savings,6/2/2024
+C0031,Rania Dara,1/9/1997,F,Bhopal,Fixed Deposit,6/19/2021
+C0032,Anya Keer,11/21/2000,M,Tiruvottiyur,Savings,10/17/2024
+C0033,Vihaan Mallick,10/7/1957,F,South Dumdum,Savings,8/20/2023
+C0034,Eshani Borra,4/30/1988,F,South Dumdum,Savings,5/10/2020
+C0035,Damini Keer,12/17/1955,F,Patna,Current,4/30/2017
+C0036,Miraya Dhaliwal,5/5/1998,M,Silchar,Savings,11/13/2023
+C0037,Indrajit Lata,3/8/1967,F,Kirari Suleman Nagar,Fixed Deposit,2/28/2019
+C0038,Nehmat Kade,8/25/1983,M,Coimbatore,Current,7/24/2023
+C0039,Ayesha Acharya,10/18/1968,F,Suryapet,Savings,7/20/2017
+C0040,Ishita Bir,7/13/1971,M,Durg,Savings,4/7/2016
+C0041,Taran Ahluwalia,7/24/1982,F,Maheshtala,Current,12/20/2019
+C0042,Amani Sundaram,12/15/1974,F,Sagar,Savings,3/15/2016
+C0043,Hrishita Kothari,2/19/1990,M,Nagaon,Savings,9/17/2021
+C0044,Umang Anand,9/11/1969,M,Raipur,Fixed Deposit,2/7/2021
+C0045,Dhruv Comar,1/8/1960,M,Rourkela,Current,7/26/2017
+C0046,Baiju Agate,9/12/1966,M,Serampore,Fixed Deposit,5/10/2022
+C0047,Mahika Bera,6/8/1965,F,Surat,Savings,6/20/2017
+C0048,Prerak Master,10/4/1960,M,Sasaram,Fixed Deposit,12/2/2017
+C0049,Yuvaan Mann,10/15/1956,M,Ongole,Savings,2/15/2022
+C0050,Jhanvi Sethi,3/27/1956,M,Jhansi,Current,8/4/2017
+C0051,Hunar Khosla,1/22/1962,F,Mau,Current,12/16/2020
+C0052,Biju Tiwari,2/9/1986,F,Kanpur,Current,7/2/2024
+C0053,Armaan Talwar,7/17/1999,F,Aurangabad,Fixed Deposit,9/7/2017
+C0054,Tiya Grewal,9/18/1995,F,Sangli-Miraj & Kupwad,Fixed Deposit,4/28/2016
+C0055,Samiha Hora,1/28/1964,M,Nizamabad,Savings,11/25/2016
+C0056,Inaaya  Singh,5/10/1955,F,Suryapet,Current,2/6/2023
+C0057,Mehul Varkey,3/28/1969,F,Panvel,Fixed Deposit,2/3/2023
+C0058,Shanaya Gola,10/28/1980,M,Tiruchirappalli,Savings,12/4/2018
+C0059,Vedika Som,5/11/1969,F,Tiruchirappalli,Fixed Deposit,7/16/2021
+C0060,Hansh Boase,2/25/1988,M,Patna,Savings,1/27/2019
+C0061,Ritvik Tank,8/27/1959,M,Cuttack,Fixed Deposit,12/26/2023
+C0062,Kabir Gopal,7/24/1960,M,Khora ,Fixed Deposit,1/26/2023
+C0063,Purab Chaudhary,1/5/1965,M,Ulhasnagar,Fixed Deposit,9/24/2017
+C0064,Sara Saran,5/7/2000,F,Thrissur,Current,9/15/2024
+C0065,Kimaya Lad,1/16/1960,F,Korba,Current,7/21/2022
+C0066,Priyansh Wali,3/13/1980,F,Tiruvottiyur,Fixed Deposit,4/19/2020
+C0067,Anahita Dave,5/24/1994,M,Motihari,Savings,5/10/2023
+C0068,Vritika Atwal,2/3/2002,F,Bally,Savings,1/22/2024
+C0069,Trisha Kade,3/14/1984,M,Meerut,Current,6/29/2018
+C0070,Aniruddh Bhasin,8/14/1964,M,Ramagundam,Current,5/29/2025
+C0071,Neysa Buch,2/12/1971,M,Bikaner,Current,9/18/2016
+C0072,Miraan Magar,10/19/2005,F,Chandigarh,Fixed Deposit,12/17/2015
+C0073,Aayush Khalsa,9/26/1985,F,Sonipat,Savings,4/10/2021
+C0074,Jayant Chandra,4/13/1960,F,Shahjahanpur,Current,1/25/2019
+C0075,Piya Lata,6/5/2004,M,Tirunelveli,Fixed Deposit,12/30/2024
+C0076,Jivin Dhaliwal,10/2/1997,M,Allahabad,Current,12/16/2023
+C0077,Kabir Deep,5/8/1968,F,Mehsana,Savings,5/25/2016
+C0078,Pranay D’Alia,7/17/1958,M,Rajkot,Savings,9/10/2016
+C0079,Anay Manda,9/13/1978,F,Raichur,Current,9/2/2022
+C0080,Fateh Bhagat,6/12/1974,F,Darbhanga,Fixed Deposit,5/5/2020
+C0081,Reyansh Dugar,4/6/1994,F,Vadodara,Savings,2/10/2025
+C0082,Amira Bala,10/25/1965,M,Solapur,Savings,12/26/2022
+C0083,Tushar Sharma,6/20/1982,F,Kozhikode,Savings,5/21/2023
+C0084,Divyansh Goswami,1/3/1978,M,Hubli–Dharwad,Current,7/28/2021
+C0085,Trisha Krishnan,7/8/1985,M,Firozabad,Fixed Deposit,2/5/2018
+C0086,Madhav Barman,2/1/1966,F,Jalna,Fixed Deposit,10/24/2019
+C0087,Shalv Dash,8/14/2003,F,Bhopal,Fixed Deposit,8/8/2021
+C0088,Raunak Maharaj,1/15/1985,F,Jamalpur,Fixed Deposit,8/8/2022
+C0089,Amani Kapoor,6/21/1991,F,Mira-Bhayandar,Fixed Deposit,10/23/2016
+C0090,Taran Contractor,2/11/1994,M,Kharagpur,Current,10/9/2016
+C0091,Ira Kadakia,11/7/1996,M,Bongaigaon,Current,12/13/2021
+C0092,Nirvi Swaminathan,4/5/1971,F,Jodhpur,Fixed Deposit,3/21/2025
+C0093,Ivana Sarkar,4/11/1957,M,Kamarhati,Fixed Deposit,5/2/2021
+C0094,Indrans Bandi,7/7/1998,M,Bhiwani,Current,6/8/2021
+C0095,Sana Kar,7/15/1986,M,Burhanpur,Current,2/2/2024
+C0096,Bhavin Bali,10/26/1961,M,Dhule,Fixed Deposit,9/16/2017
+C0097,Alisha Butala,9/7/1969,M,Salem,Fixed Deposit,12/5/2018
+C0098,Navya Kala,3/31/1958,F,Gaya,Current,12/26/2015
+C0099,Pari Loke,7/24/1964,M,Raiganj,Savings,10/22/2023
+C0100,Indranil Soman,7/24/1966,F,Nangloi Jat,Fixed Deposit,7/3/2023
+C0101,Dishani Suresh,12/20/1987,F,Tenali,Savings,3/11/2018
+C0102,Samar Borah,12/6/1958,F,Karnal,Fixed Deposit,12/13/2015
+C0103,Nakul Raj,1/21/1974,F,Morena,Fixed Deposit,11/23/2020
+C0104,Ranbir Shere,4/12/1970,M,Gurgaon,Fixed Deposit,9/7/2017
+C0105,Vritika Korpal,7/4/2000,M,Bongaigaon,Fixed Deposit,10/18/2021
+C0106,Ojas Mallick,10/20/2002,F,Uluberia,Savings,6/22/2018
+C0107,Indrajit Kumar,9/3/1992,F,North Dumdum,Current,8/21/2022
+C0108,Inaaya  Deol,3/27/1978,M,Kharagpur,Current,6/21/2016
+C0109,Umang Shankar,1/14/1978,F,Kulti,Savings,8/5/2024
+C0110,Priyansh Malhotra,1/14/1996,F,Kochi,Current,12/12/2023
+C0111,Manjari Sengupta,5/25/1994,M,Hapur,Current,8/11/2018
+C0112,Shamik Thaman,3/5/1967,F,Bhiwandi,Current,3/29/2018
+C0113,Arhaan Varty,5/31/1957,M,Nellore,Current,4/21/2022
+C0114,Kashvi Grover,9/22/1958,F,Vadodara,Current,8/30/2023
+C0115,Diya Kaur,9/10/1968,M,Ulhasnagar,Fixed Deposit,12/20/2023
+C0116,Ayesha Bumb,5/29/1966,M,Orai,Savings,10/20/2015
+C0117,Badal Goda,8/26/1989,F,Saharsa,Current,4/29/2020
+C0118,Jivika Banik,3/15/1995,M,Khammam,Current,11/2/2017
+C0119,Vedika Kota,10/25/1993,M,Ozhukarai,Current,10/12/2017
+C0120,Siya Swamy,11/8/1995,F,Mumbai,Fixed Deposit,8/11/2017
+C0121,Dhanush Ramesh,11/5/1999,M,Satara,Current,3/29/2016
+C0122,Samaira Rajagopalan,5/21/1995,M,Howrah,Current,7/19/2020
+C0123,Lagan Badami,12/17/2003,F,Eluru,Savings,12/22/2016
+C0124,Nayantara Mahal,4/1/1989,F,Anantapur,Fixed Deposit,1/15/2020
+C0125,Tarini Datta,3/19/1987,M,Jamshedpur,Current,10/10/2016
+C0126,Rania Bora,4/15/1996,M,Raiganj,Savings,10/7/2016
+C0127,Veer Contractor,10/10/1971,F,Darbhanga,Savings,7/5/2016
+C0128,Misha Toor,1/13/2001,F,Bareilly,Savings,2/3/2017
+C0129,Charvi Rama,12/24/1976,M,Amravati,Savings,8/6/2024
+C0130,Ela Sinha,9/24/1986,M,Tenali,Current,10/13/2015
+C0131,Umang Ganesh,7/6/1983,M,Malda,Savings,6/24/2025
+C0132,Shanaya Sinha,4/14/1961,M,Pali,Fixed Deposit,12/11/2017
+C0133,Stuvan Shere,10/2/1988,M,Davanagere,Fixed Deposit,4/7/2024
+C0134,Vihaan Walla,10/11/1971,F,Mirzapur,Current,7/12/2025
+C0135,Oorja Banik,3/26/1975,M,Lucknow,Savings,6/23/2021
+C0136,Neysa Bath,9/29/2005,M,Bally,Fixed Deposit,12/13/2021
+C0137,Baiju Hegde,7/27/1993,M,Madhyamgram,Savings,9/15/2023
+C0138,Divit Bhandari,8/19/1982,F,Patiala,Fixed Deposit,12/12/2024
+C0139,Taimur Bhargava,4/15/1961,M,Satna,Fixed Deposit,3/27/2025
+C0140,Fateh Bahl,12/20/1988,F,Munger,Fixed Deposit,12/6/2022
+C0141,Ishaan Yogi,10/31/1963,F,Malda,Current,6/13/2018
+C0142,Mannat Dani,1/5/1957,M,Kota,Fixed Deposit,12/19/2019
+C0143,Alia Tak,12/8/1977,M,Serampore,Savings,9/19/2016
+C0144,Ishaan Bali,6/29/1983,F,Udaipur,Current,10/25/2016
+C0145,Aaryahi Deol,3/29/1965,F,Thanjavur,Current,6/12/2019
+C0146,Shray Viswanathan,6/11/1978,F,Latur,Fixed Deposit,6/3/2019
+C0147,Kartik Chahal,2/14/1991,F,Siwan,Current,12/4/2024
+C0148,Vritika Raval,5/2/1963,F,Moradabad,Fixed Deposit,10/10/2023
+C0149,Manjari Rajan,5/3/1998,M,Dindigul,Savings,12/26/2023
+C0150,Navya Tandon,10/30/1956,M,Shimoga,Current,5/25/2018
+C0151,Krish Sem,10/8/1966,M,Shahjahanpur,Fixed Deposit,10/26/2023
+C0152,Siya Devan,5/28/1962,M,Junagadh,Current,7/26/2024
+C0153,Romil Bhavsar,2/19/1970,F,Dhanbad,Current,6/12/2016
+C0154,Ryan Shere,7/3/1972,M,Tirupati,Savings,7/23/2016
+C0155,Ishita Devan,3/29/1958,M,Kharagpur,Fixed Deposit,2/22/2021
+C0156,Prisha Shah,3/6/1993,M,Dewas,Fixed Deposit,6/27/2020
+C0157,Mamooty Deshmukh,11/14/2001,M,Guntakal,Savings,5/30/2024
+C0158,Vanya Gola,10/21/2001,M,Tadepalligudem,Savings,10/10/2016
+C0159,Trisha Yadav,1/8/1994,M,Etawah,Fixed Deposit,2/15/2019
+C0160,Yuvaan Jha,6/6/1997,M,Hospet,Current,10/28/2023
+C0161,Abram Sen,12/26/1988,M,Karaikudi,Savings,3/13/2021
+C0162,Stuvan Grover,10/8/1996,M,Saharanpur,Savings,8/15/2017
+C0163,Veer Bail,2/3/1996,F,Dibrugarh,Current,11/28/2015
+C0164,Sahil Savant,8/14/1995,M,Eluru,Fixed Deposit,12/20/2024
+C0165,Shalv Choudhury,7/15/2006,M,Nanded,Current,5/1/2017
+C0166,Armaan Contractor,5/10/2005,F,Mumbai,Savings,1/14/2021
+C0167,Dhanush Dewan,4/30/1966,F,Salem,Current,6/21/2017
+C0168,Pranay Lad,12/9/1964,M,Kharagpur,Fixed Deposit,8/21/2025
+C0169,Jayant Iyer,2/1/1969,M,Latur,Savings,4/12/2022
+C0170,Kartik Atwal,4/18/2003,F,Tiruchirappalli,Current,1/23/2016
+C0171,Ritvik Bali,6/21/1967,M,Vasai-Virar,Fixed Deposit,7/21/2020
+C0172,Amani Rao,11/14/2002,F,Kota,Fixed Deposit,3/30/2017
+C0173,Sumer De,11/22/1977,F,Mirzapur,Fixed Deposit,9/26/2015
+C0174,Priyansh Bassi,5/27/1959,M,Kakinada,Fixed Deposit,12/19/2023
+C0175,Arhaan Sawhney,11/26/1992,M,Dharmavaram,Fixed Deposit,12/13/2017
+C0176,Manjari Lalla,4/17/1961,M,Fatehpur,Fixed Deposit,2/16/2017
+C0177,Faiyaz Wagle,10/17/1972,F,Tenali,Savings,3/29/2025
+C0178,Tiya Lal,1/7/1972,F,Gopalpur,Fixed Deposit,1/11/2016
+C0179,Renee Sangha,10/13/1960,F,Nizamabad,Fixed Deposit,12/3/2022
+C0180,Kartik Acharya,10/27/1988,F,Tadipatri,Fixed Deposit,10/31/2018
+C0181,Adah Bir,11/10/1965,F,Jaunpur,Current,11/3/2019
+C0182,Siya Lanka,4/6/2000,M,Mathura,Savings,7/6/2020
+C0183,Divit Sachar,3/18/1982,M,Ujjain,Savings,4/24/2019
+C0184,Nayantara Chaudhari,12/20/1987,M,Hubli–Dharwad,Current,3/26/2023
+C0185,Trisha Sarraf,4/22/1957,F,Bhagalpur,Fixed Deposit,12/4/2019
+C0186,Rhea Bora,4/17/1984,F,Hospet,Current,11/18/2021
+C0187,Dharmajan Walia,6/29/1959,M,Tumkur,Current,3/18/2018
+C0188,Gokul Shan,8/28/1958,M,Guntur,Current,3/24/2020
+C0189,Tanya Ghose,1/25/2001,M,Alwar,Savings,5/30/2025
+C0190,Saanvi Kaul,9/21/2005,M,Jabalpur,Savings,8/31/2018
+C0191,Indranil Borah,10/4/1970,F,Tiruchirappalli,Savings,11/6/2016
+C0192,Miraya Bhatia,8/12/1998,M,Chinsurah,Fixed Deposit,9/21/2021
+C0193,Ranbir Kalla,7/30/1959,F,Vijayawada,Fixed Deposit,5/1/2022
+C0194,Adira Doshi,5/12/2007,M,Etawah,Current,7/16/2024
+C0195,Aradhya Sha,8/6/1972,F,Bhatpara,Savings,8/13/2021
+C0196,Hazel Chander,5/8/1962,F,Shahjahanpur,Savings,8/14/2022
+C0197,Nishith Randhawa,11/19/1970,M,Tiruchirappalli,Fixed Deposit,6/13/2023
+C0198,Reyansh Kata,4/21/2004,M,Tumkur,Fixed Deposit,7/2/2025
+C0199,Nakul Doshi,12/21/1984,F,Chapra,Savings,10/23/2017
+C0200,Romil Bandi,7/26/1969,M,Tenali,Savings,9/2/2018
+C0201,Lakshit Chhabra,2/16/2003,M,Jehanabad,Fixed Deposit,2/21/2020
+C0202,Samar Sehgal,4/2/1962,M,Tirunelveli,Fixed Deposit,8/10/2017
+C0203,Abram Krishna,7/22/1957,M,Bhilai,Savings,10/29/2019
+C0204,Kiara Brahmbhatt,8/10/2002,M,Dibrugarh,Current,7/12/2016
+C0205,Devansh Rattan,11/25/1997,M,Purnia,Current,11/22/2017
+C0206,Indrans Reddy,2/25/1980,F,Jorhat,Current,1/26/2024
+C0207,Yuvaan Swaminathan,7/16/1983,F,Bilaspur,Current,8/11/2016
+C0208,Riaan Shukla,11/4/1965,F,Madurai,Savings,2/21/2021
+C0209,Anahi Kulkarni,3/15/1971,M,Berhampore,Current,5/8/2018
+C0210,Vidur Chaudry,6/2/1988,F,Sagar,Current,3/29/2024
+C0211,Inaaya  Kibe,6/19/1959,M,Rourkela,Fixed Deposit,9/1/2024
+C0212,Hunar Virk,1/27/1979,M,Gandhidham,Current,6/29/2025
+C0213,Uthkarsh Tripathi,4/11/1982,F,South Dumdum,Fixed Deposit,6/10/2022
+C0214,Biju Varghese,6/7/1982,M,Thoothukudi,Fixed Deposit,12/14/2020
+C0215,Purab Shroff,11/29/1961,F,Yamunanagar,Savings,12/10/2024
+C0216,Anay Sarraf,10/26/2006,F,Bahraich,Savings,11/16/2020
+C0217,Neelofar Bera,4/2/1973,F,Surendranagar Dudhrej,Savings,10/19/2021
+C0218,Abram Banik,1/22/1963,F,Jorhat,Savings,3/13/2018
+C0219,Aarush Sawhney,7/13/2006,F,Bellary,Fixed Deposit,1/21/2017
+C0220,Jhanvi Choudhury,5/5/1991,F,Vellore,Savings,12/7/2018
+C0221,Bhamini Bobal,5/24/1992,M,Jamalpur,Fixed Deposit,11/30/2016
+C0222,Jayan Borah,9/27/1975,M,Mangalore,Savings,10/23/2015
+C0223,Eshani Banik,7/24/1998,F,Meerut,Current,8/31/2020
+C0224,Kaira Gera,3/20/1987,M,Singrauli,Current,2/26/2018
+C0225,Tara Doctor,3/9/1973,M,Jhansi,Fixed Deposit,12/9/2016
+C0226,Advik Sarin,12/30/1968,M,New Delhi,Current,10/10/2022
+C0227,Zaina Basu,4/5/1985,F,Guntakal,Current,4/29/2017
+C0228,Zeeshan Sheth,12/2/2000,M,Baranagar,Fixed Deposit,10/28/2016
+C0229,Hrishita Bedi,2/21/1985,M,Belgaum,Current,2/9/2020
+C0230,Ivan Kapoor,8/27/1975,F,Bhubaneswar,Current,7/19/2021
+C0231,Zoya Sen,11/15/1961,M,Nagercoil,Current,7/29/2019
+C0232,Romil Arya,9/26/1955,M,Serampore,Savings,7/31/2023
+C0233,Hazel Wagle,10/2/1970,M,Bhalswa Jahangir Pur,Fixed Deposit,8/7/2021
+C0234,Zeeshan Rao,7/31/1960,M,Ongole,Savings,11/30/2022
+C0235,Dhruv Varkey,9/13/1995,M,Gurgaon,Current,6/27/2021
+C0236,Shamik Basu,5/31/1979,M,Mysore,Current,9/11/2019
+C0237,Lakshit Master,9/16/1956,M,Kadapa,Savings,2/18/2016
+C0238,Rhea Sachar,11/18/1993,F,Amravati,Current,11/1/2022
+C0239,Arhaan Dasgupta,12/19/1970,M,Jamshedpur,Fixed Deposit,11/1/2020
+C0240,Alisha Bala,9/29/1985,M,New Delhi,Fixed Deposit,8/20/2018
+C0241,Rasha Agate,1/24/1983,M,Faridabad,Fixed Deposit,1/7/2022
+C0242,Mehul Batta,11/10/1956,M,Amritsar,Current,7/1/2024
+C0243,Hrishita Tripathi,1/30/1962,F,Mathura,Fixed Deposit,6/2/2024
+C0244,Adah Sethi,9/27/1976,F,Gopalpur,Fixed Deposit,2/18/2020
+C0245,Kabir Chakrabarti,12/2/2005,F,Begusarai,Current,12/4/2021
+C0246,Arnav Gandhi,10/23/1999,M,Shahjahanpur,Savings,1/4/2016
+C0247,Darshit Krishnan,10/31/2000,F,Kolkata,Savings,9/11/2019
+C0248,Hridaan Halder,3/6/1975,M,Gurgaon,Current,9/25/2016
+C0249,Reyansh Dugar,3/28/2007,F,Muzaffarnagar,Fixed Deposit,5/15/2020
+C0250,Vritika Sagar,5/21/1985,F,Katni,Savings,2/11/2021
+C0251,Umang Loke,6/24/1991,M,Hajipur,Savings,1/26/2025
+C0252,Navya Sunder,11/2/1954,F,Farrukhabad,Savings,5/28/2020
+C0253,Anahi Arya,3/3/2003,F,North Dumdum,Current,4/18/2017
+C0254,Samarth Badal,10/14/1961,F,Jodhpur,Savings,4/13/2020
+C0255,Kiara Batra,8/2/1976,M,Pondicherry,Savings,8/4/2022
+C0256,Anay Halder,12/10/1971,M,Allahabad,Current,7/28/2023
+C0257,Anaya Desai,5/18/1998,F,Karimnagar,Current,12/12/2024
+C0258,Heer Manne,8/16/1987,M,Baranagar,Current,6/24/2019
+C0259,Chirag Kakar,9/15/1983,M,Loni,Savings,6/4/2024
+C0260,Madhav Bansal,11/26/1988,M,Berhampur,Savings,10/14/2024
+C0261,Jiya Singhal,12/9/1977,F,Warangal,Current,6/20/2022
+C0262,Stuvan Wadhwa,12/1/1966,M,Madanapalle,Fixed Deposit,1/12/2023
+C0263,Saksham Gara,11/18/1992,F,Belgaum,Current,9/25/2017
+C0264,Umang Kata,5/11/1972,M,Nagercoil,Savings,6/1/2018
+C0265,Taimur Rege,6/30/1976,M,Shimoga,Savings,7/11/2018
+C0266,Kaira Malhotra,7/8/1975,F,Tirunelveli,Current,8/15/2018
+C0267,Sumer Magar,8/21/1980,F,Maheshtala,Fixed Deposit,1/1/2020
+C0268,Anahita Chandra,11/5/1977,M,Bhubaneswar,Fixed Deposit,4/4/2023
+C0269,Shray Kaur,1/11/1977,F,Sirsa,Savings,10/29/2019
+C0270,Divyansh Cheema,2/11/1970,F,Baranagar,Fixed Deposit,10/8/2023
+C0271,Kaira Jaggi,6/23/1985,M,Shivpuri,Fixed Deposit,7/15/2016
+C0272,Anahi Swaminathan,10/22/2001,F,Ujjain,Fixed Deposit,3/8/2020
+C0273,Parinaaz Dugar,6/7/2006,M,Nandyal,Current,1/18/2023
+C0274,Piya Bahl,1/16/2003,M,Bareilly,Savings,1/2/2019
+C0275,Zeeshan Kashyap,9/13/1978,F,Orai,Current,2/27/2019
+C0276,Chirag Rajan,12/16/2003,M,Siliguri,Fixed Deposit,5/8/2024
+C0277,Amira Tara,5/5/1994,M,Bhiwani,Savings,7/23/2017
+C0278,Piya Kannan,1/5/1961,M,Tirupati,Current,9/16/2018
+C0279,Sumer Sheth,11/9/1963,F,Baranagar,Savings,6/22/2025
+C0280,Abram Chad,12/26/2004,F,Machilipatnam,Current,11/9/2016
+C0281,Gokul Rana,9/19/1956,M,Anantapur,Savings,4/18/2017
+C0282,Pihu Hans,9/20/1975,F,Dibrugarh,Current,10/3/2019
+C0283,Sumer Goswami,5/22/2005,M,Vadodara,Fixed Deposit,4/26/2025
+C0284,Misha Toor,3/17/1977,F,Thiruvananthapuram,Current,12/28/2016
+C0285,Lakshay Karpe,1/17/1955,F,Guna,Fixed Deposit,3/4/2020
+C0286,Onkar Gandhi,9/26/1983,F,Pallavaram,Current,8/17/2022
+C0287,Ranbir Tank,8/8/1995,M,Medininagar,Fixed Deposit,2/8/2022
+C0288,Nishith Kumer,7/21/1993,M,Ulhasnagar,Fixed Deposit,8/10/2024
+C0289,Ishita Bhardwaj,4/6/1983,F,Kalyan-Dombivli,Current,5/27/2017
+C0290,Arnav Raman,9/3/2004,F,Gaya,Current,4/26/2025
+C0291,Shlok Mangat,3/27/1963,M,Morbi,Savings,10/15/2023
+C0292,Zoya Dar,7/21/1977,M,Akola,Current,8/31/2016
+C0293,Bhamini Jha,3/2/1983,F,Mango,Savings,1/31/2021
+C0294,Taimur Rattan,11/13/1998,M,Ongole,Current,6/12/2016
+C0295,Veer Bali,6/9/1978,F,Raipur,Savings,6/28/2019
+C0296,Ela Mahajan,12/15/1998,M,New Delhi,Fixed Deposit,7/25/2020
+C0297,Arhaan Basu,5/14/1977,F,Bhalswa Jahangir Pur,Current,3/29/2022
+C0298,Priyansh Deep,11/21/1958,F,Bhopal,Fixed Deposit,7/2/2025
+C0299,Anaya Apte,1/22/1991,M,Pune,Current,3/13/2018
+C0300,Nirvaan Vasa,8/26/1975,M,Ambattur,Savings,5/2/2024
+C0301,Anika Babu,12/3/1964,M,Raurkela Industrial Township,Current,5/24/2024
+C0302,Taran Dyal,4/14/1999,M,Hapur,Savings,7/6/2020
+C0303,Yuvraj  Verma,10/29/1958,M,Gandhidham,Savings,11/23/2020
+C0304,Kismat Kale,12/15/1992,F,Raichur,Current,9/4/2021
+C0305,Taran Kanda,4/4/1956,M,Kurnool,Fixed Deposit,1/26/2022
+C0306,Jhanvi Guha,8/9/1992,F,Mehsana,Current,7/25/2022
+C0307,Lakshit Karan,6/21/2004,M,Barasat,Fixed Deposit,7/25/2019
+C0308,Ishaan Kaul,4/29/1986,M,Rajahmundry,Savings,8/20/2016
+C0309,Inaaya  Sen,8/6/1960,F,Amravati,Current,10/20/2020
+C0310,Kanav Savant,8/18/2000,F,Latur,Current,1/11/2018
+C0311,Badal Balan,12/31/1985,M,Nagaon,Fixed Deposit,4/24/2023
+C0312,Vanya Biswas,9/19/1964,F,Buxar,Current,2/14/2022
+C0313,Anika Bhasin,10/20/1964,M,Gangtok,Savings,9/27/2021
+C0314,Rohan Shanker,5/20/1964,M,Deoghar,Current,9/14/2018
+C0315,Shlok Guha,5/9/1982,M,Suryapet,Savings,9/24/2015
+C0316,Vidur Baral,12/3/1965,F,Nizamabad,Savings,2/13/2021
+C0317,Anay Sharma,12/19/1986,F,Satara,Fixed Deposit,4/18/2023
+C0318,Saira Apte,2/16/1985,M,Phagwara,Fixed Deposit,1/31/2022
+C0319,Heer Zacharia,6/25/1969,M,Tezpur,Savings,10/19/2024
+C0320,Zeeshan Sodhi,11/6/2000,M,Khandwa,Fixed Deposit,2/27/2023
+C0321,Gokul Handa,3/27/1985,M,Darbhanga,Fixed Deposit,10/27/2016
+C0322,Ishaan Sant,10/22/1968,F,Nangloi Jat,Savings,1/8/2018
+C0323,Tushar Sharma,2/27/1970,M,Munger,Current,4/18/2021
+C0324,Jayesh Buch,1/9/1987,M,Serampore,Current,8/1/2016
+C0325,Aradhya Lal,1/9/2006,F,Gudivada,Fixed Deposit,7/3/2019
+C0326,Rania Ram,4/12/1986,F,Ambala,Fixed Deposit,7/14/2020
+C0327,Ranbir Rege,1/24/1970,M,Jalandhar,Savings,2/6/2024
+C0328,Zain Bawa,12/8/1987,F,Sambhal,Savings,12/16/2021
+C0329,Jivika Chowdhury,11/29/1958,M,Gandhinagar,Savings,9/9/2022
+C0330,Heer Devi,2/2/1969,M,Ujjain,Savings,7/4/2023
+C0331,Keya Roy,7/26/2003,F,Guwahati,Current,5/19/2025
+C0332,Jayant Mann,4/18/1972,M,Machilipatnam,Savings,8/5/2023
+C0333,Ojas Majumdar,11/3/1971,F,Bilaspur,Savings,2/22/2019
+C0334,Azad Sekhon,2/25/1965,M,Tiruvottiyur,Fixed Deposit,9/2/2022
+C0335,Prerak Chad,1/2/1966,M,Dhanbad,Savings,5/17/2021
+C0336,Mishti Bir,7/30/1962,F,Thoothukudi,Fixed Deposit,6/24/2017
+C0337,Fateh Sankar,11/13/2001,F,Bilaspur,Savings,3/14/2024
+C0338,Abram Kapur,1/11/1985,F,Surat,Savings,8/5/2016
+C0339,Trisha Bhatt,12/3/2000,M,Jamshedpur,Fixed Deposit,3/28/2021
+C0340,Keya Sha,3/28/1966,M,Dhanbad,Current,8/3/2021
+C0341,Ehsaan Saini,11/19/1976,M,Kakinada,Current,1/19/2025
+C0342,Nakul Rattan,5/23/1971,M,Ghaziabad,Fixed Deposit,11/17/2019
+C0343,Dharmajan Barad,12/13/1973,F,Bhilai,Fixed Deposit,7/4/2022
+C0344,Badal Atwal,4/3/1978,F,Giridih,Current,8/18/2017
+C0345,Ahana  Shankar,7/22/2006,F,Bhilwara,Fixed Deposit,3/18/2024
+C0346,Umang Vaidya,2/2/1978,M,Visakhapatnam,Fixed Deposit,5/2/2023
+C0347,Aarush Yohannan,6/18/1985,F,Thanjavur,Fixed Deposit,11/2/2022
+C0348,Samarth Kuruvilla,2/4/1973,F,Suryapet,Fixed Deposit,2/19/2024
+C0349,Vritika Soni,2/27/1980,F,Rewa,Fixed Deposit,3/24/2022
+C0350,Zoya Gaba,8/9/1986,F,Ranchi,Current,6/19/2019
+C0351,Jayant Biswas,6/8/1958,M,Nagaon,Fixed Deposit,2/19/2022
+C0352,Yashvi Bhatt,4/10/1964,M,Alwar,Current,1/5/2022
+C0353,Dharmajan Kumer,11/27/1971,F,Amaravati,Savings,7/10/2016
+C0354,Sara Maharaj,2/13/1988,M,Latur,Current,1/18/2019
+C0355,Aarna Gole,12/18/1976,F,Dibrugarh,Savings,9/23/2023
+C0356,Kanav Tak,12/19/1961,M,Surendranagar Dudhrej,Current,10/30/2020
+C0357,Mannat Srinivasan,1/24/2001,M,Phagwara,Current,11/8/2023
+C0358,Samiha Bhatt,1/14/1973,F,Kakinada,Fixed Deposit,5/18/2019
+C0359,Nakul Borah,1/3/1973,F,Gulbarga,Current,5/13/2022
+C0360,Anika Dave,4/18/1982,F,Bulandshahr,Current,8/17/2024
+C0361,Khushi Guha,9/20/1975,F,Sonipat,Fixed Deposit,2/16/2021
+C0362,Shray Dixit,9/17/1998,M,Mira-Bhayandar,Savings,10/2/2017
+C0363,Saira Kothari,2/5/1963,F,Muzaffarpur,Current,7/26/2020
+C0364,Romil Halder,1/19/1983,M,Darbhanga,Fixed Deposit,10/2/2024
+C0365,Romil Handa,12/24/2006,F,Tiruchirappalli,Savings,6/24/2019
+C0366,Indrajit Maharaj,11/22/1987,M,Adoni,Current,6/12/2017
+C0367,Oorja Kothari,2/5/1958,F,Buxar,Current,6/7/2020
+C0368,Indranil Thaker,10/3/1990,M,Meerut,Current,11/27/2022
+C0369,Charvi Lalla,8/17/1988,M,Delhi,Savings,6/5/2024
+C0370,Urvi Sidhu,12/30/1988,F,Bhavnagar,Savings,11/5/2024
+C0371,Yasmin Agate,6/24/1966,F,Durgapur,Current,5/21/2016
+C0372,Charvi Virk,4/7/1984,M,Barasat,Current,6/26/2023
+C0373,Miraan Shah,10/25/1967,F,Delhi,Savings,1/11/2023
+C0374,Manikya Rao,4/2/1966,F,Rampur,Fixed Deposit,12/11/2023
+C0375,Anahi Balan,7/27/1999,M,Mysore,Savings,10/1/2019
+C0376,Aarna Chaudhuri,3/11/1962,F,Kochi,Fixed Deposit,1/31/2016
+C0377,Ehsaan Brar,2/1/2005,F,Chapra,Fixed Deposit,1/17/2020
+C0378,Vanya Deol,11/27/1994,F,Ujjain,Fixed Deposit,8/2/2020
+C0379,Aaryahi Ganesan,11/10/1958,F,Barasat,Current,11/25/2018
+C0380,Alia Arya,5/18/1968,F,Darbhanga,Current,1/12/2023
+C0381,Ivan Jayaraman,4/25/1983,F,Visakhapatnam,Fixed Deposit,5/31/2025
+C0382,Nehmat Venkataraman,6/28/1965,M,Ramagundam,Fixed Deposit,4/7/2021
+C0383,Indrans Bassi,12/12/1954,M,Amaravati,Fixed Deposit,7/22/2016
+C0384,Nayantara Luthra,4/9/1991,F,Adoni,Savings,5/9/2023
+C0385,Ira Mangat,9/22/1971,F,Mathura,Current,7/30/2022
+C0386,Dhanuk Chawla,1/6/2004,M,Proddatur,Fixed Deposit,8/21/2024
+C0387,Ira Samra,2/19/1977,F,Baranagar,Fixed Deposit,11/28/2023
+C0388,Raghav Gour,11/23/1964,F,Bareilly,Savings,11/29/2015
+C0389,Ishaan Vyas,7/29/2006,M,Firozabad,Current,3/10/2016
+C0390,Yuvaan Kaul,12/30/1957,F,Ballia,Fixed Deposit,7/15/2020
+C0391,Shanaya Krishna,3/20/1972,F,Siwan,Current,8/12/2019
+C0392,Adira Dhar,10/14/1973,M,Secunderabad,Fixed Deposit,8/14/2023
+C0393,Nehmat Char,6/3/1975,F,Bareilly,Savings,1/29/2020
+C0394,Mohanlal Acharya,3/3/1964,F,Adoni,Savings,9/8/2024
+C0395,Tarini Ravi,1/11/1989,F,Deoghar,Current,1/29/2018
+C0396,Tanya Vasa,1/10/2000,F,Bulandshahr,Savings,1/28/2024
+C0397,Renee Dhingra,6/23/1992,F,Shivpuri,Current,9/10/2017
+C0398,Vidur Mall,4/4/1974,M,Pune,Fixed Deposit,2/22/2016
+C0399,Shray Ramanathan,8/30/1959,F,Belgaum,Savings,1/16/2020
+C0400,Amira Sathe,7/27/1989,M,Gopalpur,Fixed Deposit,1/1/2018
+C0401,Krish Cherian,4/13/1995,M,Pondicherry,Fixed Deposit,2/7/2024
+C0402,Kismat Rajan,3/3/1994,F,Yamunanagar,Savings,10/25/2022
+C0403,Rohan Behl,12/4/1956,F,Erode,Savings,8/6/2022
+C0404,Misha Kala,9/5/1997,M,Unnao,Savings,1/13/2016
+C0405,Ishita Sama,8/13/1996,M,Thane,Fixed Deposit,6/28/2019
+C0406,Akarsh Korpal,8/22/1970,F,Bhopal,Current,7/15/2018
+C0407,Kartik Kar,5/21/2006,M,Bikaner,Current,12/28/2021
+C0408,Damini Barad,12/27/1985,M,Munger,Fixed Deposit,11/5/2023
+C0409,Shalv Dash,12/9/1978,M,Dindigul,Fixed Deposit,8/20/2017
+C0410,Rasha Ramachandran,2/22/1986,M,Bokaro,Fixed Deposit,10/25/2023
+C0411,Tejas Chakraborty,7/13/1956,M,Patna,Savings,4/24/2025
+C0412,Tanya Sibal,2/12/1980,M,Phagwara,Current,5/25/2018
+C0413,Umang Behl,5/16/1958,F,Amritsar,Current,2/9/2025
+C0414,Anahi Chandran,6/26/1980,M,Rohtak,Current,2/29/2020
+C0415,Tiya Agate,7/1/1967,F,Raiganj,Current,2/15/2018
+C0416,Kiara Kala,2/10/1982,F,Barasat,Current,10/13/2023
+C0417,Hansh Grewal,4/29/2004,M,Ludhiana,Current,7/22/2022
+C0418,Stuvan Subramanian,5/28/1996,F,Bulandshahr,Fixed Deposit,8/11/2017
+C0419,Rohan Iyengar,7/14/1979,F,Salem,Fixed Deposit,12/7/2022
+C0420,Mannat Chander,10/11/1968,F,Guntur,Savings,6/3/2023
+C0421,Riaan Magar,9/14/2001,M,Danapur,Fixed Deposit,11/30/2018
+C0422,Aniruddh Sabharwal,2/19/1999,M,Bellary,Fixed Deposit,12/1/2021
+C0423,Alisha Mammen,5/25/1971,M,Jorhat,Current,3/19/2019
+C0424,Khushi Biswas,11/15/2005,M,Jaunpur,Savings,11/12/2021
+C0425,Lavanya Bose,3/18/1965,F,Bhusawal,Current,6/21/2023
+C0426,Neelofar Tripathi,4/13/1968,M,Sasaram,Savings,12/27/2019
+C0427,Madhav Chawla,5/10/1974,M,Visakhapatnam,Fixed Deposit,10/25/2016
+C0428,Khushi Date,3/14/1964,F,Chittoor,Fixed Deposit,10/28/2018
+C0429,Pari Jhaveri,5/28/2006,M,Berhampur,Current,1/25/2018
+C0430,Mahika Mahal,9/4/2005,M,Guntur,Current,10/15/2022
+C0431,Bhavin Chaudry,5/3/1959,M,Meerut,Current,3/23/2022
+C0432,Zoya Sunder,6/16/1970,F,Nagercoil,Fixed Deposit,3/28/2017
+C0433,Shayak Hari,9/29/1991,M,Morena,Fixed Deposit,4/13/2018
+C0434,Mohanlal Magar,4/12/2000,F,Kurnool,Fixed Deposit,6/10/2024
+C0435,Darshit Sha,7/24/1966,F,Panipat,Savings,9/15/2018
+C0436,Anahita Bhalla,8/10/1978,F,Muzaffarnagar,Current,11/23/2018
+C0437,Kashvi Deep,3/9/1968,F,Jhansi,Savings,2/14/2025
+C0438,Khushi Biswas,9/11/1957,F,Ozhukarai,Fixed Deposit,10/25/2015
+C0439,Miraan Rastogi,8/20/1955,M,Durg,Fixed Deposit,5/13/2021
+C0440,Akarsh Bhalla,5/25/1972,F,Guna,Savings,4/22/2019
+C0441,Shaan Tak,12/4/1988,F,Bhusawal,Current,5/28/2024
+C0442,Divij Rajan,10/29/2003,F,Nellore,Current,11/24/2021
+C0443,Adira Grewal,4/19/1996,M,Buxar,Fixed Deposit,9/14/2016
+C0444,Navya Vora,6/23/1966,F,Eluru,Fixed Deposit,7/3/2024
+C0445,Sana Guha,5/18/1980,F,Muzaffarnagar,Fixed Deposit,11/12/2019
+C0446,Baiju Banerjee,2/21/1976,M,Vadodara,Current,1/16/2022
+C0447,Neysa Sahni,6/17/1960,F,Uluberia,Savings,6/12/2019
+C0448,Taran Rama,1/3/1999,F,Berhampur,Fixed Deposit,3/22/2017
+C0449,Alia Lanka,9/17/1963,M,Delhi,Fixed Deposit,5/14/2022
+C0450,Fateh Banik,11/18/1966,F,Suryapet,Savings,12/9/2023
+C0451,Yakshit Krishnan,10/15/1995,M,Tiruchirappalli,Current,4/5/2023
+C0452,Arnav Lalla,6/3/1999,F,Pimpri-Chinchwad,Fixed Deposit,12/27/2017
+C0453,Kavya Kara,3/6/1999,F,Bhind,Current,12/7/2018
+C0454,Siya Garg,5/4/1995,F,Bardhaman,Fixed Deposit,4/21/2021
+C0455,Elakshi Tank,1/14/1981,M,Bongaigaon,Current,7/28/2024
+C0456,Zeeshan Reddy,7/30/1961,M,Madhyamgram,Savings,11/27/2016
+C0457,Rania Vasa,5/30/1987,M,Chapra,Fixed Deposit,12/10/2019
+C0458,Hunar Barman,6/13/1992,M,Erode,Fixed Deposit,7/4/2020
+C0459,Samar Kaur,2/12/1986,F,Sagar,Fixed Deposit,2/27/2019
+C0460,Vardaniya Sinha,6/12/2002,M,Jamalpur,Fixed Deposit,4/27/2022
+C0461,Nirvi Kala,2/26/1988,M,Phusro,Fixed Deposit,12/29/2023
+C0462,Purab Ahuja,10/7/1982,M,Buxar,Savings,2/29/2024
+C0463,Arhaan Venkatesh,10/25/2003,F,Ajmer,Fixed Deposit,7/19/2020
+C0464,Kavya Gopal,8/1/1975,F,Surat,Fixed Deposit,1/18/2025
+C0465,Kimaya Gopal,2/29/1992,F,Chapra,Current,9/24/2021
+C0466,Anvi Ghosh,10/31/1971,F,Surat,Fixed Deposit,9/1/2021
+C0467,Jivin Ganesan,2/17/1985,F,Silchar,Current,10/20/2020
+C0468,Arhaan Krish,10/31/1967,M,Ujjain,Savings,7/12/2020
+C0469,Shalv Dash,3/5/1962,M,Danapur,Current,7/15/2021
+C0470,Shanaya Borde,9/1/1960,F,Tenali,Current,7/18/2021
+C0471,Tejas Kakar,2/28/1976,F,Aligarh,Savings,2/16/2024
+C0472,Jhanvi Chaudry,12/19/1993,M,Gangtok,Savings,2/10/2017
+C0473,Rasha Krishnamurthy,2/3/2007,F,Firozabad,Current,7/19/2019
+C0474,Vardaniya Doshi,2/11/1980,F,Jamnagar,Current,9/13/2025
+C0475,Gatik Bora,7/15/1984,M,Bhilai,Savings,12/1/2024
+C0476,Anaya Thakkar,4/25/1968,F,Belgaum,Savings,2/26/2022
+C0477,Kavya Luthra,7/6/1997,F,North Dumdum,Savings,2/7/2021
+C0478,Pranay Brar,5/31/1985,F,Tirupati,Savings,12/30/2017
+C0479,Ela Khalsa,9/16/1966,F,Jodhpur,Savings,9/3/2020
+C0480,Anahita Kannan,4/19/1980,M,Kamarhati,Current,9/21/2023
+C0481,Abram Chowdhury,4/25/1998,F,Ahmednagar,Savings,2/7/2020
+C0482,Badal Dubey,4/30/1979,M,Sambhal,Fixed Deposit,12/31/2024
+C0483,Heer Kar,3/30/1994,F,Jammu,Fixed Deposit,3/10/2022
+C0484,Adira Ahuja,1/18/2006,F,Sonipat,Fixed Deposit,10/13/2019
+C0485,Uthkarsh Contractor,4/29/1996,F,Phusro,Fixed Deposit,9/1/2023
+C0486,Rhea Kala,12/13/1981,M,Pune,Savings,5/28/2020
+C0487,Darshit Dugar,5/7/1982,F,Gopalpur,Fixed Deposit,5/11/2021
+C0488,Zeeshan Reddy,4/14/1959,F,Bijapur,Current,3/20/2023
+C0489,Romil Sama,11/27/2002,F,Thoothukudi,Fixed Deposit,6/13/2024
+C0490,Anika Sachdev,10/20/1979,M,Sonipat,Savings,9/1/2018
+C0491,Tanya Jayaraman,9/22/1955,F,Silchar,Fixed Deposit,1/29/2023
+C0492,Divyansh Raval,11/16/1963,M,Mathura,Current,12/23/2017
+C0493,Vardaniya Seshadri,9/8/1995,M,Hyderabad,Savings,12/7/2015
+C0494,Anahi Bera,8/25/1957,F,Bilaspur,Savings,7/12/2020
+C0495,Akarsh Sane,5/2/1962,M,Madurai,Savings,12/12/2020
+C0496,Samarth Bhatia,11/23/2005,M,Bhind,Fixed Deposit,8/4/2020
+C0497,Kiara Suresh,8/8/1985,F,Satna,Fixed Deposit,5/30/2017
+C0498,Faiyaz Gade,5/13/1973,M,Rajahmundry,Savings,6/4/2020
+C0499,Zara Babu,6/6/1986,F,Secunderabad,Fixed Deposit,1/11/2024
+C0500,Jivika Bhakta,12/5/2002,M,Patna,Current,7/2/2020
+C0501,Myra Chatterjee,9/26/1971,M,Bathinda,Savings,2/22/2018
+C0502,Nitya Shetty,3/1/1991,F,Nangloi Jat,Current,2/13/2016
+C0503,Samarth Master,5/12/1990,F,Sirsa,Current,5/21/2024
+C0504,Miraan Warrior,5/16/1959,F,Pondicherry,Fixed Deposit,12/3/2021
+C0505,Shalv Raval,12/21/1967,M,Tezpur,Fixed Deposit,3/11/2025
+C0506,Neysa Bhat,6/5/1970,F,Haldia,Savings,2/24/2018
+C0507,Riaan Sankar,7/30/1988,F,Haridwar,Current,11/22/2017
+C0508,Abram Brar,6/24/1957,F,Solapur,Fixed Deposit,6/10/2018
+C0509,Ranbir Kapoor,5/28/1964,F,Surendranagar Dudhrej,Current,4/7/2017
+C0510,Divyansh Loke,3/16/1994,F,Jalgaon,Fixed Deposit,12/20/2022
+C0511,Trisha Jain,4/15/1997,F,Hapur,Current,1/23/2018
+C0512,Sana Baral,12/30/1996,F,Srinagar,Savings,1/13/2023
+C0513,Miraan Yohannan,8/12/2005,M,Bhalswa Jahangir Pur,Fixed Deposit,9/10/2018
+C0514,Baiju Vaidya,3/11/2006,F,Ramgarh,Savings,1/30/2021
+C0515,Madhup Kaur,4/24/1993,M,Kota,Current,3/24/2025
+C0516,Madhav Gole,10/11/2005,M,Raipur,Current,10/4/2023
+C0517,Alia Dube,9/3/1986,F,Kishanganj,Savings,3/3/2020
+C0518,Madhup Iyer,4/20/1993,M,Surendranagar Dudhrej,Current,12/16/2023
+C0519,Ivana Chowdhury,9/4/1997,M,Pali,Fixed Deposit,3/22/2024
+C0520,Zaina Biswas,11/19/2003,M,Jamnagar,Fixed Deposit,8/9/2018
+C0521,Veer Kapur,9/10/1983,M,Mathura,Current,9/2/2024
+C0522,Neysa Goyal,12/31/1971,M,Gwalior,Current,12/20/2017
+C0523,Divit Sharaf,11/24/2001,M,Ichalkaranji,Current,10/3/2021
+C0524,Jivin Sangha,3/5/1962,M,Noida,Current,7/9/2025
+C0525,Indranil Bath,2/10/1982,M,Buxar,Fixed Deposit,10/11/2021
+C0526,Ishita Choudhry,5/3/1995,M,Nagaon,Fixed Deposit,5/30/2017
+C0527,Prerak Sharaf,5/17/2001,M,Sirsa,Current,2/15/2017
+C0528,Aayush Sandhu,4/1/1992,F,Kakinada,Savings,10/3/2016
+C0529,Trisha Rastogi,11/28/1998,M,Machilipatnam,Savings,5/28/2016
+C0530,Shayak Bhasin,10/16/1987,M,Raurkela Industrial Township,Fixed Deposit,1/17/2025
+C0531,Fateh Sethi,2/24/1956,F,Coimbatore,Savings,1/10/2017
+C0532,Kanav Chaudhari,9/7/1977,F,Kollam,Current,3/20/2017
+C0533,Diya Chacko,12/17/1996,F,Ramgarh,Savings,7/17/2018
+C0534,Jivin Dasgupta,12/13/1966,M,Gwalior,Fixed Deposit,1/13/2020
+C0535,Mehul Uppal,2/17/1960,M,Amravati,Current,3/13/2019
+C0536,Hansh Grover,1/21/1990,M,Sambalpur,Current,1/31/2021
+C0537,Priyansh Thaman,12/1/1974,F,Mango,Fixed Deposit,10/2/2023
+C0538,Shaan Varghese,9/23/1982,M,Raiganj,Savings,9/17/2024
+C0539,Nirvaan Bajaj,1/23/1973,M,Pali,Fixed Deposit,9/19/2015
+C0540,Aradhya Madan,11/21/1995,F,Medininagar,Fixed Deposit,12/31/2024
+C0541,Trisha Handa,3/23/1977,F,Durg,Savings,9/10/2022
+C0542,Dhanush Doshi,7/23/1968,F,Rohtak,Current,6/27/2017
+C0543,Anika Shankar,3/15/1992,M,Bhatpara,Savings,10/15/2024
+C0544,Anvi Krishna,1/20/1978,M,Kolhapur,Savings,12/19/2018
+C0545,Farhan Doshi,11/27/1986,M,Rewa,Current,6/5/2020
+C0546,Devansh Wason,3/5/1992,M,Thrissur,Current,5/31/2022
+C0547,Jayesh Yadav,3/12/2007,F,Delhi,Fixed Deposit,6/25/2018
+C0548,Shamik Tella,5/13/1985,M,Narasaraopet,Savings,3/6/2024
+C0549,Pihu Goswami,7/13/1996,M,Amritsar,Current,6/26/2016
+C0550,Amira Chaudhari,12/2/1982,F,Agartala,Savings,9/8/2022
+C0551,Prisha Bora,8/23/1979,F,Yamunanagar,Savings,11/23/2016
+C0552,Samiha Gaba,10/14/2000,F,Buxar,Current,7/9/2022
+C0553,Badal Batta,1/27/1966,M,Kochi,Current,9/2/2021
+C0554,Stuvan Tak,6/4/1971,F,Meerut,Savings,9/21/2020
+C0555,Miraan Tandon,1/3/1970,M,Tezpur,Current,2/2/2021
+C0556,Nishith Upadhyay,9/30/2006,F,Tadepalligudem,Savings,5/28/2022
+C0557,Stuvan Hora,3/26/1992,F,Loni,Current,3/9/2017
+C0558,Sana Barad,10/22/1982,M,Raiganj,Fixed Deposit,11/23/2017
+C0559,Manjari Babu,5/18/1985,F,Arrah,Current,4/11/2017
+C0560,Dhanush Uppal,4/2/1955,F,Kalyan-Dombivli,Savings,3/7/2020
+C0561,Zaina Keer,1/31/1959,F,Anand,Current,8/21/2023
+C0562,Tara Tripathi,8/10/1959,M,Malegaon,Savings,3/6/2020
+C0563,Zain Khalsa,9/14/1982,F,Haridwar,Current,11/8/2024
+C0564,Taimur Date,12/8/1966,M,Thrissur,Savings,4/30/2023
+C0565,Prisha Sane,4/2/1982,F,Aurangabad,Savings,8/27/2016
+C0566,Nehmat Swaminathan,11/18/1957,F,Ambattur,Current,3/7/2020
+C0567,Jivika Chadha,12/18/1960,F,Purnia,Savings,7/3/2025
+C0568,Anaya Sunder,6/5/1965,F,Ballia,Fixed Deposit,2/11/2019
+C0569,Ayesha Deshpande,8/28/1971,F,Raipur,Fixed Deposit,11/12/2020
+C0570,Vihaan Sodhi,11/26/2001,F,Muzaffarpur,Current,2/20/2024
+C0571,Aayush Ray,8/12/2000,M,Coimbatore,Savings,5/8/2018
+C0572,Zara Srivastava,2/12/1973,M,Bhilwara,Savings,5/12/2022
+C0573,Mishti Yogi,12/15/1966,F,Sambalpur,Savings,11/19/2019
+C0574,Rati Sathe,11/2/1998,F,Dewas,Current,8/15/2021
+C0575,Anaya Sood,1/14/1956,M,Moradabad,Current,9/27/2020
+C0576,Sumer Master,3/18/1978,F,Udaipur,Fixed Deposit,7/22/2022
+C0577,Fateh Ghosh,12/31/1967,F,Fatehpur,Savings,7/24/2016
+C0578,Riya Sarin,2/5/1984,F,Malda,Fixed Deposit,2/25/2025
+C0579,Adah Wagle,9/14/1997,M,Kulti,Current,10/8/2020
+C0580,Anika Ram,1/10/1993,F,Malegaon,Current,3/20/2020
+C0581,Lavanya Ratta,5/12/1988,F,Mathura,Fixed Deposit,6/3/2022
+C0582,Ishita Dada,8/5/1993,M,Karimnagar,Savings,4/20/2018
+C0583,Vaibhav Malhotra,9/3/2001,F,Durgapur,Savings,12/31/2018
+C0584,Lakshit Dyal,9/19/1956,M,Imphal,Savings,11/5/2018
+C0585,Armaan Sundaram,2/14/1956,F,Korba,Current,6/21/2017
+C0586,Indrajit Sule,9/2/1959,F,Munger,Savings,11/12/2023
+C0587,Vritika Bhatti,3/6/1986,F,Panchkula,Savings,4/25/2019
+C0588,Vaibhav Kalla,6/11/1984,F,Delhi,Fixed Deposit,4/5/2024
+C0589,Darshit Sandhu,12/31/1966,F,Panihati,Fixed Deposit,10/11/2015
+C0590,Nayantara Jaggi,2/23/1983,M,Khammam,Fixed Deposit,1/17/2023
+C0591,Eshani Chopra,5/15/1965,M,Amritsar,Fixed Deposit,11/15/2024
+C0592,Divyansh Mammen,10/23/1995,M,Hajipur,Current,6/11/2016
+C0593,Faiyaz Ranganathan,6/2/1987,M,Junagadh,Savings,3/14/2020
+C0594,Aarav Deo,10/15/1955,F,Begusarai,Current,4/19/2016
+C0595,Eva Varghese,11/30/1985,F,Rajkot,Savings,7/11/2018
+C0596,Lakshit Borde,11/22/1969,M,Serampore,Current,12/9/2022
+C0597,Jivin Vig,11/17/1995,F,Raipur,Savings,4/23/2020
+C0598,Azad Shukla,8/25/1991,F,Kamarhati,Savings,12/6/2023
+C0599,Pihu Sankar,3/9/1965,F,Ahmednagar,Savings,11/1/2016
+C0600,Nirvi Sheth,11/21/1977,M,Uluberia,Current,8/1/2016
+C0601,Nakul Dar,6/7/1989,M,Bhind,Fixed Deposit,1/16/2025
+C0602,Kavya Khosla,9/28/1991,F,Visakhapatnam,Fixed Deposit,7/9/2016
+C0603,Yuvaan Dhawan,1/20/1955,M,Thanjavur,Current,5/27/2024
+C0604,Ehsaan Upadhyay,3/16/1979,F,Dindigul,Savings,1/19/2020
+C0605,Vedika Gupta,8/27/1968,M,Satara,Savings,9/5/2018
+C0606,Mamooty Srinivas,4/1/1964,F,Coimbatore,Current,11/24/2017
+C0607,Jayant Bir,7/13/2007,F,Bilaspur,Fixed Deposit,1/7/2022
+C0608,Riya Malhotra,3/27/1980,F,Ballia,Fixed Deposit,5/5/2016
+C0609,Zara Rajan,12/4/1983,F,Karnal,Savings,11/8/2018
+C0610,Pari Lalla,6/13/1974,F,Nashik,Fixed Deposit,7/29/2018
+C0611,Keya Garde,4/7/1984,F,Tadepalligudem,Fixed Deposit,6/26/2024
+C0612,Jiya Bali,2/20/1994,F,Purnia,Fixed Deposit,6/26/2016
+C0613,Onkar Mander,2/4/1963,F,Fatehpur,Savings,9/27/2023
+C0614,Keya Kala,3/18/2006,F,Sambalpur,Fixed Deposit,1/13/2018
+C0615,Hrishita Garg,9/11/1979,F,Muzaffarpur,Savings,12/4/2015
+C0616,Kartik Bumb,8/19/1980,F,Jaipur,Current,2/22/2018
+C0617,Siya Buch,1/31/1969,M,Bongaigaon,Current,11/1/2022
+C0618,Drishya Wali,4/1/1969,M,Guntur,Savings,2/5/2018
+C0619,Nirvi Manda,5/15/1973,M,Nagaon,Fixed Deposit,8/20/2021
+C0620,Uthkarsh Chatterjee,5/15/1977,F,Bhopal,Current,4/14/2023
+C0621,Tarini Kumar,6/27/1988,M,Mysore,Savings,11/30/2023
+C0622,Aarav Lal,6/24/1972,M,Solapur,Fixed Deposit,8/27/2020
+C0623,Miraan Date,8/28/1994,M,Silchar,Current,11/6/2015
+C0624,Arnav Bumb,3/7/1974,M,Ambattur,Savings,9/3/2016
+C0625,Anaya Dhingra,12/14/2004,F,Saharsa,Fixed Deposit,7/29/2019
+C0626,Divij Rajagopalan,8/13/1972,F,Mahbubnagar,Fixed Deposit,1/12/2025
+C0627,Aradhya Jani,10/5/1986,F,Belgaum,Savings,9/1/2020
+C0628,Nayantara Bhandari,10/25/1999,M,Singrauli,Fixed Deposit,6/23/2017
+C0629,Stuvan Gill,11/5/1993,M,Gandhinagar,Current,3/19/2017
+C0630,Reyansh Toor,6/4/1986,F,Gurgaon,Savings,6/23/2021
+C0631,Mohanlal Bhatnagar,3/10/1959,M,Akola,Fixed Deposit,2/18/2018
+C0632,Bhamini Chopra,12/10/1963,F,New Delhi,Fixed Deposit,12/31/2022
+C0633,Manikya Bhavsar,7/7/1978,M,Orai,Fixed Deposit,7/24/2019
+C0634,Jayant Lal,4/23/1988,F,Phusro,Fixed Deposit,12/12/2024
+C0635,Pranay Malhotra,10/7/1975,M,Ambattur,Fixed Deposit,7/31/2021
+C0636,Purab Soni,3/3/1968,M,Shahjahanpur,Savings,8/14/2018
+C0637,Nishith Magar,2/5/1968,F,Salem,Current,4/16/2022
+C0638,Indrans Varghese,8/2/1992,M,Jalgaon,Current,2/13/2019
+C0639,Ishita Jayaraman,1/7/1983,M,New Delhi,Savings,8/27/2024
+C0640,Manikya Dasgupta,12/9/1960,F,Ratlam,Fixed Deposit,9/21/2015
+C0641,Darshit Chaudry,7/6/1982,M,Bhusawal,Current,8/17/2017
+C0642,Azad Sagar,1/17/1973,F,Guna,Current,10/27/2024
+C0643,Hrishita Handa,10/12/1977,M,Pune,Current,6/23/2019
+C0644,Onkar Ramakrishnan,2/16/1992,M,Kadapa,Fixed Deposit,3/21/2022
+C0645,Priyansh Ganesh,6/12/1965,F,Bettiah,Savings,11/19/2020
+C0646,Yuvraj  Arya,3/27/1988,F,Guwahati,Current,1/30/2017
+C0647,Divij Kapur,8/25/1957,F,Chennai,Savings,1/26/2020
+C0648,Yasmin Rama,10/14/2001,F,Nandyal,Current,10/27/2021
+C0649,Neelofar Bala,5/5/1972,F,Shimoga,Savings,9/20/2018
+C0650,Hunar Kohli,1/25/1967,M,Kollam,Fixed Deposit,10/23/2021
+C0651,Kiara Saini,3/4/1975,M,Kumbakonam,Fixed Deposit,3/19/2017
+C0652,Tiya Saxena,1/2/1992,F,Hazaribagh,Fixed Deposit,1/30/2024
+C0653,Onkar Ravel,3/19/1995,F,Tezpur,Savings,3/26/2023
+C0654,Dhruv Keer,7/12/2006,M,Sagar,Fixed Deposit,8/1/2023
+C0655,Divij Sundaram,5/12/1963,M,Jamalpur,Fixed Deposit,11/24/2018
+C0656,Chirag Bail,5/30/1989,F,Serampore,Current,5/13/2025
+C0657,Romil Datta,10/8/1986,F,Ramgarh,Savings,1/5/2022
+C0658,Jivika Garg,1/25/1958,M,Sangli-Miraj & Kupwad,Savings,10/3/2016
+C0659,Shray Ramakrishnan,2/9/2006,M,Alwar,Current,8/4/2017
+C0660,Siya Vig,7/9/2004,M,Delhi,Fixed Deposit,1/17/2016
+C0661,Saksham Kakar,4/17/1995,M,Anand,Current,8/22/2025
+C0662,Shlok Grover,9/18/1996,F,Imphal,Fixed Deposit,12/25/2019
+C0663,Lakshit Kara,10/9/1994,M,Narasaraopet,Savings,5/28/2023
+C0664,Dhanush Khalsa,1/19/1974,M,Darbhanga,Fixed Deposit,7/27/2021
+C0665,Miraya Sule,9/20/1969,M,Gulbarga,Current,3/21/2018
+C0666,Lakshit Badami,4/23/1960,F,Visakhapatnam,Fixed Deposit,4/21/2016
+C0667,Tarini Bassi,2/5/1964,M,Deoghar,Current,11/1/2024
+C0668,Samiha Saini,7/29/1981,F,Danapur,Fixed Deposit,5/7/2025
+C0669,Krish Srinivasan,10/28/2003,F,Ambarnath,Savings,11/17/2018
+C0670,Dharmajan Thakur,1/16/2002,F,Saharanpur,Savings,3/29/2018
+C0671,Aaina Talwar,9/16/1965,F,Ramgarh,Savings,1/12/2019
+C0672,Yuvraj  Jani,5/29/1992,F,Kulti,Fixed Deposit,1/21/2018
+C0673,Prisha Mangal,1/13/1958,F,Hubli–Dharwad,Current,4/3/2019
+C0674,Riaan Shanker,1/23/1988,M,Jhansi,Savings,4/8/2024
+C0675,Devansh Madan,3/4/2007,M,Miryalaguda,Current,12/21/2017
+C0676,Kiaan Sarna,2/21/1994,M,Raipur,Savings,4/12/2019
+C0677,Uthkarsh Gola,1/30/1956,M,Raiganj,Savings,5/19/2023
+C0678,Vidur Malhotra,11/3/2003,F,Dehri,Savings,11/20/2017
+C0679,Nitara Dhar,8/7/1965,M,Satna,Savings,5/5/2016
+C0680,Dharmajan Soman,12/29/1957,M,Miryalaguda,Current,11/19/2019
+C0681,Dhanuk Khosla,5/8/1964,M,Maheshtala,Current,1/29/2021
+C0682,Manikya Kala,9/20/1964,M,Serampore,Fixed Deposit,8/13/2021
+C0683,Rohan Jhaveri,4/24/1987,M,Bhimavaram,Current,10/12/2021
+C0684,Anvi Ratti,10/11/1988,M,Nagpur,Fixed Deposit,10/10/2019
+C0685,Kismat Rastogi,12/26/1977,M,Naihati,Current,9/28/2017
+C0686,Divyansh Varghese,3/3/1966,F,Shahjahanpur,Current,6/11/2019
+C0687,Devansh Varkey,11/20/1982,F,Mirzapur,Savings,2/9/2024
+C0688,Tiya Kale,1/8/1995,F,Saharanpur,Fixed Deposit,10/3/2024
+C0689,Manjari Mannan,11/26/1994,F,Surat,Savings,11/13/2020
+C0690,Sana Kalla,5/23/1974,M,Gorakhpur,Current,5/7/2023
+C0691,Aarush Vasa,1/9/1981,M,Panvel,Current,1/11/2020
+C0692,Biju Dayal,12/26/1970,F,Muzaffarnagar,Savings,2/10/2023
+C0693,Sana Goswami,10/18/1961,F,Tiruppur,Fixed Deposit,2/7/2025
+C0694,Anay Dara,11/23/1979,F,Kottayam,Current,3/16/2016
+C0695,Hiran Dey,2/11/2000,M,Madanapalle,Current,5/23/2017
+C0696,Gatik Sachdeva,5/28/1964,M,Bokaro,Savings,9/9/2020
+C0697,Zoya Khurana,12/5/1970,F,Jalna,Current,10/22/2017
+C0698,Shayak Ramesh,6/10/1956,M,Tadepalligudem,Current,10/17/2016
+C0699,Kabir Sane,2/18/1955,F,Faridabad,Current,5/28/2017
+C0700,Hansh Desai,10/14/1961,M,Khora ,Fixed Deposit,9/27/2021
+C0701,Saksham Choudhary,2/27/1974,M,Maheshtala,Current,8/28/2023
+C0702,Indrans Dube,6/27/2007,M,Suryapet,Current,1/11/2023
+C0703,Nirvaan Khosla,10/27/1983,F,Saharsa,Current,6/22/2018
+C0704,Tiya Gulati,5/24/1981,M,Aligarh,Savings,2/23/2021
+C0705,Divij Ganesh,12/6/1971,M,Bellary,Current,9/1/2023
+C0706,Ritvik Dhillon,9/13/1972,M,Belgaum,Fixed Deposit,11/14/2015
+C0707,Yuvaan Agarwal,7/25/1996,M,Phagwara,Current,10/4/2016
+C0708,Kashvi Gopal,4/30/1990,F,Korba,Current,1/25/2019
+C0709,Nitya Bir,2/9/1984,F,Ghaziabad,Fixed Deposit,1/31/2019
+C0710,Onkar Soni,3/23/1985,F,Cuttack,Current,8/26/2023
+C0711,Manjari Soman,12/23/1978,M,Ranchi,Savings,11/27/2019
+C0712,Raunak Toor,12/18/1955,F,Vijayawada,Fixed Deposit,12/9/2024
+C0713,Amani Sodhi,8/27/1961,F,Gangtok,Current,10/28/2024
+C0714,Shayak Tata,11/8/1992,F,Siliguri,Savings,4/29/2023
+C0715,Yakshit Jayaraman,11/4/1956,F,Junagadh,Current,1/17/2019
+C0716,Rasha Basu,7/13/1965,F,Kanpur,Fixed Deposit,12/24/2016
+C0717,Ehsaan Kapur,7/5/1956,F,Chapra,Savings,3/2/2019
+C0718,Vanya Krishna,4/9/1962,M,Naihati,Fixed Deposit,10/12/2017
+C0719,Hiran Ram,7/23/1998,M,Tiruppur,Current,8/27/2018
+C0720,Arnav Mane,12/11/1967,F,Katihar,Current,6/18/2017
+C0721,Rati Datta,11/30/1971,F,Buxar,Savings,7/3/2018
+C0722,Lagan Bajaj,10/8/2005,F,Sonipat,Savings,11/23/2015
+C0723,Darshit Raja,12/24/1963,M,Secunderabad,Current,3/2/2023
+C0724,Sara Yadav,5/15/1976,M,Anand,Fixed Deposit,8/17/2024
+C0725,Lavanya Tata,3/16/1988,M,Srinagar,Current,7/30/2018
+C0726,Tarini Viswanathan,6/6/1979,M,Thanjavur,Current,3/23/2023
+C0727,Inaaya  Gara,7/2/2007,F,Siliguri,Current,11/8/2022
+C0728,Ranbir Basak,7/4/1987,M,Medininagar,Fixed Deposit,8/23/2020
+C0729,Vritika Mane,3/27/1966,M,Guwahati,Fixed Deposit,2/3/2024
+C0730,Suhana Handa,2/20/1993,F,Amritsar,Current,2/9/2019
+C0731,Jayant Chakrabarti,7/25/2003,F,Bhopal,Savings,11/14/2019
+C0732,Madhup Bhatnagar,10/17/1980,F,Shimla,Fixed Deposit,11/8/2021
+C0733,Arnav Kamdar,9/12/1990,M,Purnia,Current,8/20/2024
+C0734,Jivika Goswami,10/20/1978,F,Parbhani,Current,10/9/2023
+C0735,Aniruddh Balakrishnan,8/14/1969,F,Panihati,Current,11/22/2016
+C0736,Shray Gour,9/10/1988,M,Bahraich,Savings,2/6/2020
+C0737,Vritika Madan,8/1/1968,F,Khammam,Fixed Deposit,4/13/2021
+C0738,Miraya Jani,8/8/1994,F,Kota,Current,1/25/2025
+C0739,Shalv Sule,2/8/1964,F,Aurangabad,Fixed Deposit,2/13/2024
+C0740,Rati Banerjee,7/18/1984,F,Malegaon,Current,6/26/2024
+C0741,Lavanya Deshmukh,10/21/1996,F,Surendranagar Dudhrej,Current,5/16/2025
+C0742,Vritika Kalla,5/8/1997,M,Jammu,Fixed Deposit,8/22/2019
+C0743,Nakul Keer,7/6/1955,M,Berhampur,Savings,7/17/2023
+C0744,Aayush Bhargava,3/7/1995,F,Nagpur,Savings,5/25/2021
+C0745,Ivan Sane,12/7/1990,F,Madanapalle,Fixed Deposit,8/5/2024
+C0746,Siya Brahmbhatt,3/30/2002,F,Kanpur,Fixed Deposit,2/23/2022
+C0747,Gokul Char,4/4/1970,F,Satna,Current,3/28/2025
+C0748,Zaina Balan,11/20/2005,F,Indore,Current,6/30/2020
+C0749,Adah Shenoy,5/29/1997,M,Khora ,Fixed Deposit,1/19/2016
+C0750,Ishita Lall,1/23/2006,F,Muzaffarpur,Fixed Deposit,9/21/2016
+C0751,Charvi Joshi,3/24/1963,M,Katihar,Fixed Deposit,11/25/2023
+C0752,Madhav Singhal,6/25/1980,F,Raipur,Savings,11/14/2018
+C0753,Hridaan Saini,10/9/1997,F,Munger,Savings,6/24/2020
+C0754,Pranay Khanna,3/6/1990,F,Dharmavaram,Savings,10/12/2018
+C0755,Jivin Kannan,5/5/1958,M,Karawal Nagar,Fixed Deposit,7/20/2016
+C0756,Madhav Khare,9/30/1960,F,Dehri,Fixed Deposit,9/12/2020
+C0757,Sara Magar,11/1/1993,M,Bijapur,Current,10/12/2015
+C0758,Samaira Ahluwalia,7/9/1961,F,Aizawl,Savings,11/17/2022
+C0759,Indrajit Sethi,10/19/1988,F,Bellary,Savings,12/10/2021
+C0760,Divyansh Sarna,9/18/1991,M,Asansol,Savings,3/2/2024
+C0761,Madhav Bawa,10/24/1971,M,Tirunelveli,Savings,4/18/2022
+C0762,Raunak Gala,11/7/1992,F,Loni,Fixed Deposit,11/20/2022
+C0763,Dharmajan Dhar,9/19/1971,F,Morbi,Current,8/20/2021
+C0764,Zeeshan Krishnan,8/24/1967,F,Tinsukia,Current,2/16/2016
+C0765,Damini Subramaniam,9/1/1964,M,Rajpur Sonarpur,Current,9/9/2023
+C0766,Ivan Viswanathan,7/3/2002,M,Kolhapur,Fixed Deposit,12/5/2016
+C0767,Madhup Divan,12/31/2001,F,Ambala,Savings,2/17/2021
+C0768,Tushar Mammen,6/25/1970,M,Mau,Fixed Deposit,11/7/2021
+C0769,Ayesha Sandhu,4/25/2001,F,Chittoor,Savings,11/21/2021
+C0770,Nirvi Dugar,8/31/1984,F,Bhilai,Fixed Deposit,7/21/2020
+C0771,Veer Gokhale,10/30/1968,F,Kirari Suleman Nagar,Current,4/20/2019
+C0772,Adah Biswas,12/13/1959,M,Mumbai,Current,5/19/2019
+C0773,Samar Manne,3/8/1957,M,Bongaigaon,Current,7/29/2021
+C0774,Jayant Dalal,8/4/1983,M,Siwan,Current,12/15/2019
+C0775,Manikya Das,4/20/1989,M,Berhampore,Savings,12/10/2021
+C0776,Elakshi Gulati,5/22/1992,F,Cuttack,Fixed Deposit,12/16/2016
+C0777,Shlok Dalal,7/20/1965,M,Ballia,Savings,10/20/2022
+C0778,Rati Suri,7/12/1985,F,Aurangabad,Fixed Deposit,7/18/2019
+C0779,Lavanya Kanda,9/1/1977,M,Ulhasnagar,Current,6/21/2025
+C0780,Fateh Tiwari,10/11/1955,M,Erode,Current,2/27/2017
+C0781,Khushi Hayre,7/19/1981,M,Chittoor,Current,7/24/2025
+C0782,Vritika Sant,2/6/1986,F,Madanapalle,Fixed Deposit,4/19/2016
+C0783,Hridaan Apte,4/8/1997,M,Ichalkaranji,Current,11/30/2018
+C0784,Zoya Brar,1/7/1982,M,Pondicherry,Savings,6/20/2023
+C0785,Heer Raja,10/1/1982,F,Hazaribagh,Savings,7/24/2024
+C0786,Ishaan Madan,8/27/1969,F,Raipur,Savings,11/28/2017
+C0787,Nitara Dasgupta,3/6/1999,F,Nizamabad,Fixed Deposit,11/27/2019
+C0788,Sahil Walia,6/14/1971,F,Madurai,Savings,10/15/2019
+C0789,Bhavin Garg,10/19/1996,F,Panchkula,Current,9/9/2023
+C0790,Eshani Sem,12/3/1958,F,Farrukhabad,Fixed Deposit,12/17/2019
+C0791,Mohanlal Dash,4/27/1998,M,Tadepalligudem,Current,11/4/2017
+C0792,Rasha Gara,7/29/1972,F,Guwahati,Fixed Deposit,5/1/2022
+C0793,Miraya Kale,9/27/1998,M,Jalna,Savings,7/27/2022
+C0794,Oorja Mane,12/14/1977,F,Rajahmundry,Current,12/25/2017
+C0795,Dhanuk Cherian,11/1/1967,M,Nangloi Jat,Current,11/17/2022
+C0796,Ivana Bhargava,8/16/1969,M,Cuttack,Fixed Deposit,6/28/2024
+C0797,Anika Ramaswamy,4/8/1960,M,Agra,Current,6/12/2024
+C0798,Fateh Dewan,10/6/1978,F,Alappuzha,Savings,5/7/2017
+C0799,Vaibhav Dhaliwal,7/14/1967,F,Malegaon,Fixed Deposit,12/22/2020
+C0800,Renee Chand,1/7/1999,F,Amaravati,Current,12/18/2024
+C0801,Renee Bhat,1/2/1971,F,Gorakhpur,Fixed Deposit,3/20/2021
+C0802,Advik Vala,12/30/1959,M,Bhind,Current,11/6/2019
+C0803,Eshani Majumdar,5/28/1967,F,Ramgarh,Savings,5/29/2019
+C0804,Nirvaan Chada,5/19/1970,F,Burhanpur,Savings,12/9/2015
+C0805,Nirvi Jha,10/25/2001,F,Kanpur,Savings,3/29/2020
+C0806,Eshani Krishna,12/19/2003,M,Coimbatore,Savings,8/28/2018
+C0807,Vanya Bahl,5/16/1990,F,Bhilwara,Current,12/5/2017
+C0808,Miraya Soni,11/1/1997,F,Tumkur,Savings,8/3/2017
+C0809,Aarav Vohra,3/20/1973,F,Moradabad,Fixed Deposit,9/27/2019
+C0810,Adah Grover,11/7/1960,F,Malda,Current,3/26/2021
+C0811,Yuvaan Khurana,5/8/1978,F,Shahjahanpur,Savings,7/9/2019
+C0812,Misha Lata,12/3/1993,F,Howrah,Fixed Deposit,4/25/2018
+C0813,Indrans Hari,11/9/1957,F,Yamunanagar,Current,3/29/2023
+C0814,Zara Karpe,11/17/1994,M,Bongaigaon,Fixed Deposit,1/14/2016
+C0815,Ehsaan Deol,4/9/1955,M,Amravati,Current,3/20/2017
+C0816,Myra Dutta,2/19/1971,F,Bharatpur,Fixed Deposit,10/31/2023
+C0817,Navya Ben,7/17/1994,M,Thanjavur,Savings,3/22/2024
+C0818,Rohan Jha,12/3/1961,F,Surat,Fixed Deposit,9/26/2021
+C0819,Dharmajan Guha,12/5/1957,M,Tiruchirappalli,Fixed Deposit,10/22/2017
+C0820,Saira Ghosh,3/24/1958,F,Bhimavaram,Current,9/5/2016
+C0821,Dishani Wagle,3/18/1970,F,Madanapalle,Current,10/17/2018
+C0822,Raunak Bhalla,7/20/2000,F,Jalgaon,Savings,3/28/2019
+C0823,Hiran Seth,9/2/1990,F,Surendranagar Dudhrej,Fixed Deposit,4/13/2017
+C0824,Aaryahi Raj,5/1/1972,M,Muzaffarnagar,Fixed Deposit,1/24/2023
+C0825,Nakul Tak,3/10/1968,F,Kalyan-Dombivli,Fixed Deposit,10/7/2017
+C0826,Nirvi Zacharia,12/11/1968,M,Mathura,Fixed Deposit,7/4/2024
+C0827,Darshit Chhabra,5/15/1991,M,Buxar,Savings,9/3/2024
+C0828,Neelofar Karpe,9/3/1970,F,Amaravati,Current,1/16/2017
+C0829,Rohan Dhar,3/25/1959,M,Aurangabad,Fixed Deposit,6/22/2024
+C0830,Shanaya Krish,6/4/1989,F,Kochi,Savings,2/22/2016
+C0831,Shayak Ratta,7/18/1974,M,Phagwara,Savings,11/23/2021
+C0832,Neelofar Contractor,5/14/1961,F,Jammu,Savings,11/14/2016
+C0833,Samiha Gulati,6/2/1978,M,Motihari,Savings,5/2/2022
+C0834,Tushar Venkataraman,12/19/2003,M,Karaikudi,Savings,9/25/2019
+C0835,Prisha Desai,10/22/1979,F,Jalandhar,Current,12/27/2022
+C0836,Saksham Sule,9/14/1957,M,Kollam,Savings,2/2/2025
+C0837,Divij Mallick,9/18/1969,M,Sirsa,Current,2/16/2021
+C0838,Amani Kala,7/16/1990,F,Panvel,Fixed Deposit,7/31/2025
+C0839,Tejas Shankar,1/16/1978,F,Agartala,Fixed Deposit,8/2/2023
+C0840,Tanya Gupta,11/18/1992,F,Howrah,Current,8/23/2018
+C0841,Gatik Virk,1/2/1965,F,Gandhinagar,Current,9/8/2016
+C0842,Hazel Sama,1/20/1995,M,Malda,Fixed Deposit,4/21/2019
+C0843,Navya Chaudhry,2/18/1980,F,Madhyamgram,Savings,9/22/2021
+C0844,Samaira Wadhwa,7/1/1979,F,Sri Ganganagar,Fixed Deposit,6/10/2024
+C0845,Samiha Mane,10/29/1999,F,Nagpur,Savings,11/15/2016
+C0846,Ehsaan Chawla,12/28/1970,F,Amritsar,Savings,4/4/2025
+C0847,Fateh Thaman,8/16/1990,M,Kakinada,Current,2/22/2024
+C0848,Zeeshan Buch,2/8/1956,M,Kharagpur,Current,9/21/2019
+C0849,Shaan Seshadri,9/25/1997,M,Kishanganj,Fixed Deposit,6/14/2024
+C0850,Vidur Talwar,12/10/1965,F,Tinsukia,Fixed Deposit,8/27/2019
+C0851,Lakshay Subramanian,4/29/1975,M,Bellary,Current,7/12/2020
+C0852,Khushi Deshmukh,9/26/1987,M,Dewas,Fixed Deposit,8/25/2023
+C0853,Hrishita Grover,11/15/1979,F,Durg,Current,12/17/2020
+C0854,Vihaan Chakrabarti,7/14/1996,M,Madanapalle,Current,1/29/2018
+C0855,Kavya Ganesan,11/14/1972,M,Danapur,Fixed Deposit,8/14/2025
+C0856,Arhaan Khurana,11/21/2005,F,Patiala,Savings,3/1/2024
+C0857,Zaina Kohli,4/23/1958,M,Pune,Savings,9/12/2020
+C0858,Keya Arya,5/25/2005,F,Gulbarga,Current,9/17/2020
+C0859,Shaan Bala,6/30/1978,M,Dharmavaram,Fixed Deposit,10/17/2021
+C0860,Adira Rama,9/2/1991,M,Buxar,Savings,5/31/2017
+C0861,Charvi Chanda,8/25/1980,F,Vijayanagaram,Current,9/24/2024
+C0862,Anaya Soman,5/17/1979,M,Rohtak,Current,6/10/2024
+C0863,Aaryahi Dara,12/12/1986,F,Bangalore,Fixed Deposit,12/7/2020
+C0864,Zain Bhargava,11/6/1995,F,Kottayam,Fixed Deposit,11/24/2015
+C0865,Navya Bhatnagar,12/2/2001,F,Jalandhar,Current,8/3/2016
+C0866,Tarini Gupta,7/3/1965,F,Hyderabad,Savings,10/26/2023
+C0867,Farhan Tandon,11/6/1989,M,Moradabad,Fixed Deposit,11/25/2018
+C0868,Zaina Sengupta,5/9/1990,M,Karaikudi,Fixed Deposit,12/27/2019
+C0869,Eva Chandran,2/12/1978,F,Purnia,Fixed Deposit,10/7/2016
+C0870,Jayant Sinha,1/28/1983,M,Morena,Savings,3/29/2020
+C0871,Parinaaz Chawla,12/19/2001,M,Kollam,Savings,2/26/2020
+C0872,Charvi Chadha,9/6/1991,M,Anantapur,Current,3/10/2020
+C0873,Ayesha Thakkar,12/4/1979,M,Ambarnath,Fixed Deposit,7/24/2019
+C0874,Vihaan Bhavsar,4/9/1985,F,Begusarai,Savings,12/16/2019
+C0875,Nitara Wali,1/18/1960,M,Bhilwara,Savings,7/9/2022
+C0876,Samar Sama,10/11/1998,F,Unnao,Fixed Deposit,2/15/2022
+C0877,Zara Jani,7/8/2005,M,Burhanpur,Savings,10/22/2022
+C0878,Pari Deo,5/29/1993,M,Miryalaguda,Current,1/10/2022
+C0879,Dhruv Rama,6/20/1957,F,Varanasi,Savings,8/24/2023
+C0880,Suhana Shukla,12/4/1986,F,Ballia,Savings,2/5/2022
+C0881,Alia Sur,6/24/1995,F,Chinsurah,Current,9/10/2023
+C0882,Dishani Baria,9/11/1998,F,Tadepalligudem,Fixed Deposit,8/17/2018
+C0883,Ehsaan Anne,1/19/2001,M,Panipat,Savings,4/17/2024
+C0884,Akarsh Gera,9/8/1988,F,Dibrugarh,Current,8/4/2022
+C0885,Amira Bhagat,12/4/2004,F,Danapur,Fixed Deposit,6/10/2020
+C0886,Shray Gandhi,10/7/1989,M,Kolkata,Current,1/12/2023
+C0887,Seher Kala,1/7/1980,M,Indore,Savings,10/26/2023
+C0888,Navya Bhat,9/19/1996,F,Shivpuri,Current,6/5/2020
+C0889,Vritika Ganguly,12/4/1956,F,Jaipur,Savings,8/2/2020
+C0890,Arhaan Rajagopal,2/13/1985,F,Adoni,Fixed Deposit,7/31/2023
+C0891,Alisha Lall,8/19/1963,F,Solapur,Fixed Deposit,3/4/2025
+C0892,Zara Datta,1/4/1989,F,Thoothukudi,Current,3/23/2024
+C0893,Miraan Tripathi,6/1/1978,F,Rewa,Savings,11/24/2016
+C0894,Alisha Deep,6/24/1996,F,Ghaziabad,Fixed Deposit,11/16/2019
+C0895,Rohan Goswami,9/13/1960,M,Jammu,Current,3/16/2017
+C0896,Devansh Swamy,9/28/1956,F,Phusro,Fixed Deposit,1/22/2023
+C0897,Zaina Kumer,7/19/1982,F,Madanapalle,Fixed Deposit,7/14/2019
+C0898,Dhanuk Bera,6/29/1977,M,Bahraich,Savings,3/1/2017
+C0899,Anahita Bhatnagar,7/5/1996,M,Erode,Fixed Deposit,5/2/2020
+C0900,Pihu Toor,10/25/1965,F,New Delhi,Fixed Deposit,7/6/2018
+C0901,Madhup Shenoy,8/3/1980,F,Gaya,Savings,5/17/2022
+C0902,Ritvik Ravi,7/6/1965,F,Guwahati,Fixed Deposit,9/22/2015
+C0903,Jiya Sagar,8/27/1997,F,Gurgaon,Fixed Deposit,8/28/2024
+C0904,Faiyaz Chowdhury,3/9/2003,M,Sambhal,Savings,2/22/2021
+C0905,Taran Choudhary,7/28/1964,F,Bokaro,Savings,5/20/2018
+C0906,Inaaya  Sridhar,3/15/2005,F,Jalgaon,Fixed Deposit,8/22/2025
+C0907,Ira Sidhu,2/27/1989,M,Jaunpur,Fixed Deposit,4/17/2022
+C0908,Hunar Bhatt,9/23/1999,M,Raiganj,Fixed Deposit,7/26/2020
+C0909,Rasha Bains,5/22/1996,F,Bulandshahr,Fixed Deposit,1/17/2021
+C0910,Indrans Sachar,3/16/1990,F,Ramgarh,Current,10/23/2015
+C0911,Jivin Kadakia,9/3/2001,M,Visakhapatnam,Fixed Deposit,7/24/2021
+C0912,Anika Sabharwal,9/27/1991,F,Kolkata,Savings,12/20/2020
+C0913,Mohanlal Warrior,1/16/1967,M,Kolhapur,Savings,2/16/2016
+C0914,Hiran Ramesh,2/11/1969,M,Hosur,Savings,12/21/2017
+C0915,Onkar Dhaliwal,12/20/1957,F,Amroha,Savings,12/7/2020
+C0916,Mamooty Dara,10/22/1998,M,Tirunelveli,Fixed Deposit,4/29/2023
+C0917,Dishani Grewal,10/18/1991,M,Bhiwandi,Fixed Deposit,2/23/2025
+C0918,Miraan Saxena,9/1/1967,M,Nagpur,Current,3/18/2017
+C0919,Jiya Kaul,3/30/1995,F,Davanagere,Fixed Deposit,7/23/2024
+C0920,Vidur Yogi,9/6/1991,F,Hajipur,Savings,8/22/2023
+C0921,Indrajit Trivedi,2/26/1980,M,Noida,Fixed Deposit,1/10/2025
+C0922,Raghav Sachdeva,7/28/1964,F,Bangalore,Current,10/15/2021
+C0923,Mahika Varty,10/27/1989,M,Ramgarh,Fixed Deposit,2/26/2017
+C0924,Hrishita Balan,7/3/1991,M,Sultan Pur Majra,Fixed Deposit,2/1/2017
+C0925,Samarth Sarin,8/28/1985,F,Suryapet,Savings,2/28/2018
+C0926,Shaan Bhatnagar,12/26/1971,F,Chapra,Current,12/14/2015
+C0927,Kimaya Keer,10/19/2006,F,Madurai,Fixed Deposit,12/10/2017
+C0928,Nayantara Bava,9/4/1986,M,Purnia,Fixed Deposit,10/15/2017
+C0929,Mishti Dada,5/9/1959,M,Bally,Current,12/19/2017
+C0930,Aarav Desai,1/29/1959,M,Proddatur,Fixed Deposit,11/23/2022
+C0931,Umang Raval,4/17/2006,F,Noida,Current,9/3/2016
+C0932,Dharmajan Uppal,9/20/1963,F,Surat,Current,7/12/2016
+C0933,Arhaan Gill,7/24/2000,M,Ulhasnagar,Savings,12/4/2017
+C0934,Kabir Kannan,10/17/1987,F,Jamshedpur,Fixed Deposit,11/8/2024
+C0935,Aaina Majumdar,9/11/1986,F,Noida,Current,4/16/2025
+C0936,Samarth Ramaswamy,4/21/1985,F,Mehsana,Current,7/2/2025
+C0937,Samiha Dugar,3/25/1994,F,Buxar,Current,6/7/2020
+C0938,Nehmat Kara,7/16/1958,M,Asansol,Savings,10/23/2023
+C0939,Bhamini Dutta,12/19/2003,F,Kirari Suleman Nagar,Fixed Deposit,7/22/2016
+C0940,Jayan Shah,9/22/1991,M,Silchar,Savings,1/1/2016
+C0941,Rohan Gade,7/13/1967,M,Kanpur,Savings,12/18/2023
+C0942,Jayant Dutta,11/5/1963,M,Rohtak,Current,4/20/2020
+C0943,Ayesha Suri,3/10/1957,F,Kanpur,Current,12/8/2017
+C0944,Amira Madan,3/12/1998,F,Dehri,Current,12/24/2017
+C0945,Tanya Bose,6/13/1976,M,Naihati,Current,8/13/2021
+C0946,Hazel Sahota,7/22/2004,F,Junagadh,Savings,8/10/2023
+C0947,Ela Edwin,7/12/2005,M,Bardhaman,Current,5/9/2022
+C0948,Ehsaan Viswanathan,9/26/1959,F,Haridwar,Fixed Deposit,6/10/2025
+C0949,Mishti Bahri,4/22/1971,M,Hubli–Dharwad,Savings,9/30/2015
+C0950,Tiya Bahl,9/14/1968,F,Ambala,Current,11/25/2020
+C0951,Sana Anne,8/1/1980,F,Bhimavaram,Fixed Deposit,2/14/2024
+C0952,Pihu Deep,11/10/1994,F,Bongaigaon,Current,6/21/2023
+C0953,Suhana Rajan,11/10/2004,F,Mehsana,Fixed Deposit,9/15/2023
+C0954,Rania Babu,10/15/1992,F,Proddatur,Current,7/18/2019
+C0955,Romil Viswanathan,3/15/1968,M,Guwahati,Current,4/11/2021
+C0956,Zara Balan,2/11/1976,M,Jamshedpur,Savings,1/30/2021
+C0957,Kartik Hegde,10/24/1958,F,Satna,Current,3/31/2018
+C0958,Kavya Agate,7/19/1997,M,Secunderabad,Fixed Deposit,2/15/2021
+C0959,Amira Dara,8/16/1984,F,Tirupati,Fixed Deposit,8/18/2021
+C0960,Gatik Deshmukh,3/2/1993,M,Aligarh,Savings,5/10/2025
+C0961,Ryan Jha,7/22/2005,M,Chennai,Current,2/19/2024
+C0962,Tiya Wason,2/19/1965,F,Belgaum,Savings,4/21/2023
+C0963,Aarav Dada,9/12/1998,F,Agartala,Current,6/2/2018
+C0964,Arnav Mannan,7/8/1962,F,Dharmavaram,Savings,1/22/2017
+C0965,Sana Ramakrishnan,2/17/1992,M,Orai,Current,1/7/2024
+C0966,Kashvi Singhal,12/30/1976,M,Chapra,Current,5/15/2021
+C0967,Anay Chaudhary,6/28/1958,M,Purnia,Savings,3/26/2019
+C0968,Bhamini Arya,11/29/2003,M,Sagar,Savings,2/25/2019
+C0969,Zaina Chhabra,7/29/1998,F,Orai,Savings,11/7/2021
+C0970,Anahi Ganesan,5/31/1983,F,Sirsa,Savings,1/22/2016
+C0971,Mannat Dua,4/5/1976,M,Panihati,Current,1/9/2025
+C0972,Misha Swamy,10/29/1965,M,Malda,Current,11/7/2020
+C0973,Divij Andra,8/6/1989,M,Bhiwandi,Fixed Deposit,3/28/2025
+C0974,Kashvi Sethi,3/21/1986,M,Aizawl,Current,11/23/2016
+C0975,Jiya Dhawan,4/27/1970,F,Arrah,Savings,1/19/2025
+C0976,Neelofar Bawa,3/27/1976,F,Kulti,Savings,5/6/2024
+C0977,Dhanush Luthra,11/4/1977,F,Sasaram,Current,7/15/2022
+C0978,Dishani Rau,11/1/2000,F,Katihar,Fixed Deposit,4/19/2022
+C0979,Eshani Kumar,12/15/2005,M,Solapur,Fixed Deposit,10/26/2018
+C0980,Anahi Saxena,3/16/1986,F,New Delhi,Current,6/20/2018
+C0981,Anvi Sha,3/20/2000,M,Tiruchirappalli,Savings,3/19/2023
+C0982,Abram Borde,8/8/1970,F,Amravati,Savings,2/12/2019
+C0983,Heer Rajagopalan,9/25/1982,F,Ulhasnagar,Current,10/31/2020
+C0984,Dishani Lad,6/14/1977,F,Phusro,Fixed Deposit,2/1/2023
+C0985,Amani Goyal,11/22/1967,M,Gwalior,Current,4/15/2017
+C0986,Miraya Kothari,4/16/2005,F,Barasat,Current,9/20/2023
+C0987,Baiju Lata,7/15/1987,M,Deoghar,Current,12/5/2020
+C0988,Aarna Tandon,5/7/2002,F,Vasai-Virar,Current,8/9/2025
+C0989,Mishti Ahluwalia,9/10/1977,F,Tadipatri,Savings,3/25/2022
+C0990,Suhana Maharaj,7/1/1988,M,Bhimavaram,Savings,8/11/2019
+C0991,Shray Bawa,12/7/1989,F,Rajpur Sonarpur,Current,1/6/2019
+C0992,Urvi Zachariah,1/6/1985,M,Bhagalpur,Fixed Deposit,2/14/2021
+C0993,Mamooty Sastry,9/11/1960,F,Kalyan-Dombivli,Current,11/11/2021
+C0994,Shalv Choudhary,6/26/1994,F,Allahabad,Savings,1/29/2018
+C0995,Prerak Wason,8/28/1991,M,Bellary,Savings,7/27/2023
+C0996,Mamooty Mani,1/13/1991,F,Meerut,Fixed Deposit,7/15/2024
+C0997,Indrans Sarraf,6/28/1989,F,Adoni,Current,6/13/2021
+C0998,Advik Chakraborty,1/20/1965,M,Ranchi,Savings,4/26/2025
+C0999,Nayantara Desai,1/26/1955,M,Durg,Savings,3/7/2023
+C1000,Charvi Sur,7/27/1993,F,Udaipur,Current,8/2/2016
