@@ -66,24 +66,31 @@ txn_date, txn_type (credit/debit), amount, channel
 
 🎯 Business Problems & SQL Queries
 **1️⃣ Total Transactions per Customer**
-***SqlSELECT c.customer_id, COUNT(t.txn_id) AS total_txns
+
+***Sql
+
+SELECT c.customer_id, COUNT(t.txn_id) AS total_txns
 FROM customers c
 JOIN accounts a ON c.customer_id = a.customer_id
 JOIN transactions t ON a.account_id = t.account_id
-GROUP BY c.customer_id;***
+GROUP BY c.customer_id;
+***
 
 
 🔍 Insight: Found top active customers for loyalty targeting.
 
 **2️⃣ Top 5 Customers by Transaction Value**
 ***sql
+
 SELECT c.customer_id, SUM(t.amount) AS total_value
 FROM customers c
 JOIN accounts a ON c.customer_id = a.customer_id
 JOIN transactions t ON a.account_id = t.account_id
 GROUP BY c.customer_id
 ORDER BY total_value DESC
-LIMIT 5;***
+LIMIT 5;
+
+***
 
 
 
