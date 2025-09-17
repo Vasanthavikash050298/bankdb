@@ -65,39 +65,45 @@ account_id (FK)
 txn_date, txn_type (credit/debit), amount, channel
 
 🎯 Business Problems & SQL Queries
-1️⃣ Total Transactions per Customer
-SELECT c.customer_id, COUNT(t.txn_id) AS total_txns
+**1️⃣ Total Transactions per Customer**
+***SqlSELECT c.customer_id, COUNT(t.txn_id) AS total_txns
 FROM customers c
 JOIN accounts a ON c.customer_id = a.customer_id
 JOIN transactions t ON a.account_id = t.account_id
-GROUP BY c.customer_id;
+GROUP BY c.customer_id;***
 
 
 🔍 Insight: Found top active customers for loyalty targeting.
 
-2️⃣ Top 5 Customers by Transaction Value
+**2️⃣ Top 5 Customers by Transaction Value**
+***sql
 SELECT c.customer_id, SUM(t.amount) AS total_value
 FROM customers c
 JOIN accounts a ON c.customer_id = a.customer_id
 JOIN transactions t ON a.account_id = t.account_id
 GROUP BY c.customer_id
 ORDER BY total_value DESC
-LIMIT 5;
+LIMIT 5;***
+
+
 
 
 🔍 Insight: Identified High Net-Worth Individuals (HNI clients).
 
-3️⃣ Monthly Revenue Trend (Credits Only)
+**3️⃣ Monthly Revenue Trend (Credits Only)**
+***sql
 SELECT DATE_TRUNC('month', t.txn_date) AS month, SUM(t.amount) AS revenue
 FROM transactions t
 WHERE t.txn_type = 'credit'
 GROUP BY month
 ORDER BY month;
+***
 
 
 🔍 Insight: Revenue spikes in March & December (bonus/salary cycles).
 
-4️⃣ Dormant Customers (No Transactions in 6 Months)
+**4️⃣ Dormant Customers (No Transactions in 6 Months)**
+***sql
 SELECT c.customer_id, c.first_name, c.last_name
 FROM customers c
 JOIN accounts a ON c.customer_id = a.customer_id
@@ -105,15 +111,18 @@ LEFT JOIN transactions t
        ON a.account_id = t.account_id 
        AND t.txn_date >= CURRENT_DATE - INTERVAL '6 months'
 WHERE t.txn_id IS NULL;
+***
 
 
 🔍 Insight: ~12% customers inactive → potential churn.
 
-5️⃣ Top Transaction Channels
+**5️⃣ Top Transaction Channels**
+***sql
 SELECT channel, COUNT(*) AS txn_count, SUM(amount) AS total_value
 FROM transactions
 GROUP BY channel
 ORDER BY txn_count DESC;
+***
 
 
 🔍 Insight: Online transactions = 60% of volume and 70% of value → strong digital adoption.
